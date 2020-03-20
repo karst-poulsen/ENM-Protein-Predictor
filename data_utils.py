@@ -7,7 +7,7 @@ import os
 import pandas as pd
 import numpy as np
 import sklearn
-from sklearn import preprocessing, cross_validation, model_selection
+from sklearn import preprocessing, model_selection
 import random
 import csv
 import sys
@@ -352,7 +352,7 @@ def classify(data, cutoff):
         try:
             data = np.array(data)
         except:
-            print "data could not be converted to type: numpy array"
+            print("data could not be converted to type: numpy array")
 
     classified_data = np.empty((len(data)))
 
@@ -426,10 +426,12 @@ def multi_label_encode(dataframe, column):
     categorical_df = pd.DataFrame(index= np.arange(dataframe.shape[0]), columns = set(interprot_identifiers))
     categorical_df = categorical_df.fillna(0)
 
-    for key, val in protein_ips.iteritems():
+    for key, val in protein_ips.items():
         for v in val:
             if v != 0:
-                categorical_df.set_value(key, v, 1)
+                categorical_df.at[key, v]=1
+                #updated to the because set_value was deprecated as a command
+
 
     dataframe = dataframe.drop(column, 1)
     new_dataframe = pd.concat([dataframe, categorical_df], axis=1)
@@ -449,21 +451,21 @@ def clean_print(obj):
     if isinstance(obj, dict):
         for key, val in obj.items():
             if hasattr(val, '__iter__'):
-                print "\n" + key
+                print("\n" + key)
                 clean_print(val)
             else:
-                print '%s : %s' % (key, val)
+                print('%s : %s' % (key, val))
     elif isinstance(obj, list):
         for val in obj:
             if hasattr(val, '__iter__'):
                 clean_print(val)
             else:
-                print val
+                print(val)
     else:
         if isinstance(obj, pd.DataFrame):
             clean_print(obj.to_dict(orient='records'))
         else:
-            print str(obj) + "\n"
+            print(str(obj) + "\n")
 
 def to_excel(classification_information):
     """ Prints model output to an excel file

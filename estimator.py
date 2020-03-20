@@ -20,9 +20,19 @@ import predictor_utils
 import validation_utils
 import sys
 import json
-import numpy as np
 import os
 import math
+
+class MyEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, np.integer):
+            return int(obj)
+        elif isinstance(obj, np.floating):
+            return float(obj)
+        elif isinstance(obj, np.ndarray):
+            return obj.tolist()
+        else:
+            return super(MyEncoder, self).default(obj)
 
 def pipeline(db, test_percentage=0.1, optimize=False, RFECV=False):
     """
@@ -78,7 +88,7 @@ if __name__ == '__main__':
 
     #Initialize our database
     db = data_utils.data_base()
-    db.raw_data = "Input_Files/database.csv"
+    db.raw_data = "Input_Files/database2.csv"
     db.clean_raw_data()
 
     ###To use our data to predict yours, set your data below and uncomment:
@@ -107,7 +117,7 @@ if __name__ == '__main__':
 
     #Run the model multiple times and store results
     for i in range(0, iterations):
-        print "Run Number: {}".format(i)
+        print("Run Number: {}".format(i))
         metrics = pipeline(db)
         #hold scores and importance data in json format
         results["Run_" + str(i)] = {'scores': metrics[SCORES], 'importances': metrics[IMPORTANCES]}
@@ -116,7 +126,7 @@ if __name__ == '__main__':
 
     #dump the statistic and feature importance results as json
     with open(output_file, 'w') as f:
-        json.dump(results, f)
+        json.dump(results, f,cls=MyEncoder)
     #Pass prediction information to be inserted into excel document
     data_utils.to_excel(classification_information)
     #Run statistic parser for human readable json

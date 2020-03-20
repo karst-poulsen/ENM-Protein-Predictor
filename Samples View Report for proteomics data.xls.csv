@@ -1,0 +1,259 @@
+"#proteomics data, Samples Report created on 07/16/2019",,,,,,,,,,
+,,,,,,,,,Total Spectrum Count,Total Spectrum Count
+proteomics data,,,,,,,,,ADH QC,NP_corona1
+#,Visible?,Starred?,Identified Proteins (254),Accession Number,Alternate ID,Molecular Weight,Protein Grouping Ambiguity,Taxonomy,ADH QC,36044
+1,TRUE,Empty,Complement C3 OS=Bos taurus GN=C3 PE=1 SV=2,CO3_BOVIN,C3,187 kDa,,unknown,0,992
+2,TRUE,Empty,Plasminogen OS=Bos taurus GN=PLG PE=1 SV=2,PLMN_BOVIN,PLG,91 kDa,,unknown,0,760
+3,TRUE,Empty,Serum albumin OS=Bos taurus GN=ALB PE=1 SV=4,ALBU_BOVIN,ALB,69 kDa,,unknown,0,417
+4,TRUE,Empty,Gelsolin OS=Bos taurus GN=GSN PE=2 SV=1,GELS_BOVIN,GSN,81 kDa,,unknown,0,330
+5,TRUE,Empty,Complement factor H OS=Bos taurus GN=CFH PE=1 SV=3,CFAH_BOVIN,CFH,140 kDa,,unknown,0,314
+6,TRUE,Empty,Thrombospondin-1 OS=Bos taurus GN=THBS1 PE=2 SV=2,TSP1_BOVIN,THBS1,130 kDa,TRUE,unknown,0,276
+7,TRUE,Empty,Hemoglobin fetal subunit beta OS=Bos taurus PE=1 SV=1,HBBF_BOVIN,,16 kDa,TRUE,unknown,0,233
+8,TRUE,Empty,Alpha-2-HS-glycoprotein OS=Bos taurus GN=AHSG PE=1 SV=2,FETUA_BOVIN,AHSG,38 kDa,,unknown,0,208
+9,TRUE,Empty,Complement component C7 OS=Bos taurus GN=C7 PE=2 SV=1,CO7_BOVIN,C7,93 kDa,,unknown,0,180
+10,TRUE,Empty,Beta-2-glycoprotein 1 OS=Bos taurus GN=APOH PE=1 SV=4,APOH_BOVIN,APOH,38 kDa,,unknown,0,178
+11,TRUE,Empty,Fibronectin OS=Bos taurus GN=FN1 PE=1 SV=4,FINC_BOVIN,FN1,272 kDa,,unknown,0,175
+12,TRUE,Empty,Complement factor B OS=Bos taurus GN=CFB PE=1 SV=2,CFAB_BOVIN,CFB,85 kDa,,unknown,0,165
+13,TRUE,Empty,Complement C4 (Fragments) OS=Bos taurus GN=C4 PE=1 SV=2,CO4_BOVIN,C4,102 kDa,,unknown,0,152
+14,TRUE,Empty,Fibrinogen alpha chain OS=Bos taurus GN=FGA PE=1 SV=5,FIBA_BOVIN,FGA,67 kDa,,unknown,0,130
+15,TRUE,Empty,Serotransferrin OS=Bos taurus GN=TF PE=2 SV=1,TRFE_BOVIN,TF,78 kDa,,unknown,0,125
+16,TRUE,Empty,Alpha-2-macroglobulin OS=Bos taurus GN=A2M PE=1 SV=2,A2MG_BOVIN,A2M,168 kDa,,unknown,0,123
+17,TRUE,Empty,Hemoglobin subunit alpha OS=Bos taurus GN=HBA PE=1 SV=2,HBA_BOVIN,HBA,15 kDa,,unknown,0,110
+18,TRUE,Empty,Coagulation factor V OS=Bos taurus GN=F5 PE=1 SV=1,FA5_BOVIN,F5,249 kDa,,unknown,0,101
+19,TRUE,Empty,Fibrinogen beta chain OS=Bos taurus GN=FGB PE=1 SV=2,FIBB_BOVIN,FGB,53 kDa,,unknown,0,97
+20,TRUE,Empty,Cartilage oligomeric matrix protein OS=Bos taurus GN=COMP PE=1 SV=2,COMP_BOVIN,COMP,82 kDa,TRUE,unknown,0,83
+21,TRUE,Empty,Tetranectin OS=Bos taurus GN=CLEC3B PE=2 SV=1,TETN_BOVIN,CLEC3B,22 kDa,,unknown,0,82
+22,TRUE,Empty,Alcohol dehydrogenase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ADH1 PE=1 SV=5,ADH1_YEAST,ADH1,37 kDa,,unknown,77,2
+23,TRUE,Empty,Apolipoprotein A-I OS=Bos taurus GN=APOA1 PE=1 SV=3,APOA1_BOVIN,APOA1,30 kDa,,unknown,0,79
+24,TRUE,Empty,Inter-alpha-trypsin inhibitor heavy chain H4 OS=Bos taurus GN=ITIH4 PE=1 SV=1,ITIH4_BOVIN,ITIH4,102 kDa,,unknown,0,77
+25,TRUE,Empty,Fibrinogen gamma-B chain OS=Bos taurus GN=FGG PE=1 SV=1,FIBG_BOVIN,FGG,50 kDa,,unknown,0,71
+26,TRUE,Empty,Insulin-like growth factor-binding protein 2 OS=Bos taurus GN=IGFBP2 PE=1 SV=2,IBP2_BOVIN,IGFBP2,34 kDa,,unknown,0,63
+27,TRUE,Empty,Kininogen-1 OS=Bos taurus GN=KNG1 PE=1 SV=1,KNG1_BOVIN,KNG1,69 kDa,TRUE,unknown,0,54
+28,TRUE,Empty,Alpha-fetoprotein OS=Bos taurus GN=AFP PE=2 SV=1,FETA_BOVIN,AFP,69 kDa,,unknown,0,64
+29,TRUE,Empty,Pigment epithelium-derived factor OS=Bos taurus GN=SERPINF1 PE=1 SV=1,PEDF_BOVIN,SERPINF1,46 kDa,,unknown,0,53
+30,TRUE,Empty,Plasma serine protease inhibitor OS=Bos taurus GN=SERPINA5 PE=1 SV=1,IPSP_BOVIN,SERPINA5,45 kDa,,unknown,0,50
+31,TRUE,Empty,Factor XIIa inhibitor OS=Bos taurus PE=1 SV=1,F12AI_BOVIN,,52 kDa,,unknown,0,46
+32,TRUE,Empty,Coagulation factor XII OS=Bos taurus GN=F12 PE=1 SV=2,FA12_BOVIN,F12,67 kDa,,unknown,0,46
+33,TRUE,Empty,Glyceraldehyde-3-phosphate dehydrogenase OS=Bos taurus GN=GAPDH PE=1 SV=4,G3P_BOVIN,GAPDH,36 kDa,,unknown,0,46
+34,TRUE,Empty,Complement component C6 OS=Bos taurus GN=C6 PE=2 SV=1,CO6_BOVIN,C6,105 kDa,,unknown,0,44
+35,TRUE,Empty,Prothrombin OS=Bos taurus GN=F2 PE=1 SV=2,THRB_BOVIN,F2,71 kDa,,unknown,0,45
+36,TRUE,Empty,Adenylyl cyclase-associated protein 1 OS=Bos taurus GN=CAP1 PE=2 SV=3,CAP1_BOVIN,CAP1,51 kDa,,unknown,0,40
+37,TRUE,Empty,Hepatocyte growth factor-like protein OS=Bos taurus GN=MST1 PE=2 SV=1,HGFL_BOVIN,MST1,80 kDa,,unknown,0,38
+38,TRUE,Empty,Alpha-1-antiproteinase OS=Bos taurus GN=SERPINA1 PE=1 SV=1,A1AT_BOVIN,SERPINA1,46 kDa,,unknown,0,37
+39,TRUE,Empty,Complement factor D OS=Bos taurus GN=CFD PE=2 SV=1,CFAD_BOVIN,CFD,28 kDa,,unknown,0,34
+40,TRUE,Empty,Collagen alpha-1(II) chain OS=Bos taurus GN=COL2A1 PE=1 SV=4,CO2A1_BOVIN,COL2A1,142 kDa,,unknown,0,34
+41,TRUE,Empty,Cystatin-C OS=Bos taurus GN=CST3 PE=1 SV=2,CYTC_BOVIN,CST3,16 kDa,,unknown,0,33
+42,TRUE,Empty,Carboxypeptidase B2 OS=Bos taurus GN=CPB2 PE=1 SV=1,CBPB2_BOVIN,CPB2,49 kDa,,unknown,0,32
+43,TRUE,Empty,Thrombospondin-4 OS=Bos taurus GN=THBS4 PE=2 SV=1,TSP4_BOVIN,THBS4,106 kDa,TRUE,unknown,0,38
+44,TRUE,Empty,Apolipoprotein E OS=Bos taurus GN=APOE PE=1 SV=1,APOE_BOVIN,APOE,36 kDa,,unknown,0,30
+45,TRUE,Empty,Insulin-like growth factor-binding protein 6 OS=Bos taurus GN=IGFBP6 PE=2 SV=2,IBP6_BOVIN,IGFBP6,25 kDa,,unknown,0,28
+46,TRUE,Empty,Fibrillin-1 OS=Bos taurus GN=FBN1 PE=1 SV=2,FBN1_BOVIN,FBN1,312 kDa,,unknown,0,26
+47,TRUE,Empty,Insulin-like growth factor-binding protein 4 OS=Bos taurus GN=IGFBP4 PE=2 SV=1,IBP4_BOVIN,IGFBP4,28 kDa,,unknown,0,27
+48,TRUE,Empty,Plasma kallikrein OS=Bos taurus GN=KLKB1 PE=2 SV=1,KLKB1_BOVIN,KLKB1,71 kDa,TRUE,unknown,0,27
+49,TRUE,Empty,Peptidoglycan recognition protein 1 OS=Bos taurus GN=PGLYRP1 PE=1 SV=1,PGRP1_BOVIN,PGLYRP1,21 kDa,,unknown,0,26
+50,TRUE,Empty,Fermitin family homolog 3 OS=Bos taurus GN=FERMT3 PE=2 SV=1,URP2_BOVIN,FERMT3,76 kDa,,unknown,0,26
+51,TRUE,Empty,"Actin, cytoplasmic 1 OS=Bos taurus GN=ACTB PE=1 SV=1",ACTB_BOVIN (+1),ACTB,42 kDa,,unknown,0,24
+52,TRUE,Empty,Vasodilator-stimulated phosphoprotein OS=Bos taurus GN=VASP PE=2 SV=3,VASP_BOVIN,VASP,40 kDa,,unknown,0,24
+53,TRUE,Empty,Vitamin D-binding protein OS=Bos taurus GN=GC PE=2 SV=1,VTDB_BOVIN,GC,53 kDa,,unknown,0,23
+54,TRUE,Empty,Cofilin-1 OS=Bos taurus GN=CFL1 PE=2 SV=3,COF1_BOVIN,CFL1,19 kDa,TRUE,unknown,0,23
+55,TRUE,Empty,Complement C1s subcomponent OS=Bos taurus GN=C1S PE=2 SV=2,C1S_BOVIN,C1S,77 kDa,,unknown,0,21
+56,TRUE,Empty,Alpha-2-antiplasmin OS=Bos taurus GN=SERPINF2 PE=1 SV=2,A2AP_BOVIN,SERPINF2,55 kDa,,unknown,0,21
+57,TRUE,Empty,C4b-binding protein alpha chain OS=Bos taurus GN=C4BPA PE=2 SV=1,C4BPA_BOVIN,C4BPA,69 kDa,,unknown,0,21
+58,TRUE,Empty,Catalase OS=Bos taurus GN=CAT PE=1 SV=3,CATA_BOVIN,CAT,60 kDa,,unknown,0,20
+59,TRUE,Empty,Elongation factor 1-alpha 1 OS=Bos taurus GN=EEF1A1 PE=1 SV=1,EF1A1_BOVIN,EEF1A1,50 kDa,,unknown,0,21
+60,TRUE,Empty,Regakine-1 OS=Bos taurus PE=1 SV=2,REG1_BOVIN,,10 kDa,,unknown,0,21
+61,TRUE,Empty,Transforming growth factor-beta-induced protein ig-h3 OS=Bos taurus GN=TGFBI PE=1 SV=2,BGH3_BOVIN,TGFBI,74 kDa,,unknown,0,19
+62,TRUE,Empty,Cadherin-5 OS=Bos taurus GN=CDH5 PE=2 SV=1,CADH5_BOVIN,CDH5,87 kDa,,unknown,0,20
+63,TRUE,Empty,Collagen alpha-1(I) chain OS=Bos taurus GN=COL1A1 PE=1 SV=3,CO1A1_BOVIN,COL1A1,139 kDa,,unknown,0,19
+64,TRUE,Empty,Collagen alpha-2(I) chain OS=Bos taurus GN=COL1A2 PE=1 SV=2,CO1A2_BOVIN,COL1A2,129 kDa,,unknown,0,20
+65,TRUE,Empty,Fetuin-B OS=Bos taurus GN=FETUB PE=1 SV=1,FETUB_BOVIN,FETUB,43 kDa,,unknown,0,20
+66,TRUE,Empty,Hyaluronan-binding protein 2 OS=Bos taurus GN=HABP2 PE=2 SV=1,HABP2_BOVIN,HABP2,62 kDa,,unknown,0,19
+67,TRUE,Empty,Lipopolysaccharide-binding protein OS=Bos taurus GN=LBP PE=2 SV=1,LBP_BOVIN,LBP,54 kDa,,unknown,0,20
+68,TRUE,Empty,Antithrombin-III OS=Bos taurus GN=SERPINC1 PE=1 SV=2,ANT3_BOVIN,SERPINC1,52 kDa,,unknown,0,19
+69,TRUE,Empty,Complement C1q subcomponent subunit B OS=Bos taurus GN=C1QB PE=1 SV=1,C1QB_BOVIN,C1QB,26 kDa,,unknown,0,19
+70,TRUE,Empty,Protein AMBP OS=Bos taurus GN=AMBP PE=1 SV=2,AMBP_BOVIN,AMBP,39 kDa,,unknown,0,17
+71,TRUE,Empty,Glutathione S-transferase A2 OS=Bos taurus GN=GSTA2 PE=2 SV=4,GSTA2_BOVIN,GSTA2,26 kDa,TRUE,unknown,0,18
+72,TRUE,Empty,Hemopexin OS=Bos taurus GN=HPX PE=2 SV=1,HEMO_BOVIN,HPX,52 kDa,,unknown,0,17
+73,TRUE,Empty,Insulin-like growth factor II OS=Bos taurus GN=IGF2 PE=1 SV=4,IGF2_BOVIN,IGF2,20 kDa,,unknown,0,18
+74,TRUE,Empty,Moesin OS=Bos taurus GN=MSN PE=2 SV=3,MOES_BOVIN,MSN,68 kDa,TRUE,unknown,0,16
+75,TRUE,Empty,Apolipoprotein A-II OS=Bos taurus GN=APOA2 PE=1 SV=2,APOA2_BOVIN,APOA2,11 kDa,,unknown,0,17
+76,TRUE,Empty,Elongation factor 2 OS=Bos taurus GN=EEF2 PE=2 SV=3,EF2_BOVIN,EEF2,95 kDa,,unknown,0,17
+77,TRUE,Empty,Adenosylhomocysteinase OS=Bos taurus GN=AHCY PE=2 SV=3,SAHH_BOVIN,AHCY,48 kDa,,unknown,3,13
+78,TRUE,Empty,Insulin-like growth factor-binding protein 3 OS=Bos taurus GN=IGFBP3 PE=1 SV=3,IBP3_BOVIN,IGFBP3,32 kDa,,unknown,0,16
+79,TRUE,Empty,D-3-phosphoglycerate dehydrogenase OS=Bos taurus GN=PHGDH PE=2 SV=3,SERA_BOVIN,PHGDH,56 kDa,,unknown,0,16
+80,TRUE,Empty,Secreted phosphoprotein 24 OS=Bos taurus GN=SPP2 PE=1 SV=2,SPP24_BOVIN,SPP2,23 kDa,,unknown,0,15
+81,TRUE,Empty,Beta-2-microglobulin OS=Bos taurus GN=B2M PE=1 SV=2,B2MG_BOVIN,B2M,14 kDa,,unknown,0,14
+82,TRUE,Empty,"Keratin, type I cytoskeletal 10 OS=Bos taurus GN=KRT10 PE=3 SV=1",K1C10_BOVIN,KRT10,55 kDa,TRUE,unknown,0,14
+83,TRUE,Empty,Serpin H1 OS=Bos taurus GN=SERPINH1 PE=2 SV=1,SERPH_BOVIN,SERPINH1,47 kDa,,unknown,0,14
+84,TRUE,Empty,WD repeat-containing protein 1 OS=Bos taurus GN=WDR1 PE=2 SV=3,WDR1_BOVIN,WDR1,66 kDa,,unknown,0,14
+85,TRUE,Empty,Spleen trypsin inhibitor I OS=Bos taurus PE=1 SV=2,BPT2_BOVIN,,11 kDa,,unknown,0,14
+86,TRUE,Empty,Alcohol dehydrogenase class-3 OS=Bos taurus GN=ADH5 PE=2 SV=1,ADHX_BOVIN,ADH5,40 kDa,,unknown,0,13
+87,TRUE,Empty,Complement component C9 OS=Bos taurus GN=C9 PE=2 SV=1,CO9_BOVIN,C9,62 kDa,,unknown,0,13
+88,TRUE,Empty,Leukocyte cell-derived chemotaxin-2 OS=Bos taurus GN=LECT2 PE=1 SV=1,LECT2_BOVIN,LECT2,16 kDa,,unknown,0,13
+89,TRUE,Empty,"Beta-1,4-galactosyltransferase 1 OS=Bos taurus GN=B4GALT1 PE=1 SV=3",B4GT1_BOVIN,B4GALT1,45 kDa,,unknown,0,11
+90,TRUE,Empty,Coagulation factor XI OS=Bos taurus GN=F11 PE=1 SV=1,FA11_BOVIN,F11,70 kDa,TRUE,unknown,0,13
+91,TRUE,Empty,Inter-alpha-trypsin inhibitor heavy chain H3 OS=Bos taurus GN=ITIH3 PE=1 SV=2,ITIH3_BOVIN,ITIH3,100 kDa,,unknown,0,11
+92,TRUE,Empty,Transgelin-2 OS=Bos taurus GN=TAGLN2 PE=2 SV=3,TAGL2_BOVIN,TAGLN2,22 kDa,,unknown,0,12
+93,TRUE,Empty,Protein-lysine 6-oxidase OS=Bos taurus GN=LOX PE=1 SV=3,LYOX_BOVIN,LOX,47 kDa,,unknown,0,12
+94,TRUE,Empty,Alpha-enolase OS=Bos taurus GN=ENO1 PE=1 SV=4,ENOA_BOVIN,ENO1,47 kDa,,unknown,0,11
+95,TRUE,Empty,Heat shock 70 kDa protein 1A OS=Bos taurus GN=HSPA1A PE=1 SV=2,HS71A_BOVIN (+1),HSPA1A,70 kDa,TRUE,unknown,0,11
+96,TRUE,Empty,Argininosuccinate synthase OS=Bos taurus GN=ASS1 PE=2 SV=1,ASSY_BOVIN,ASS1,46 kDa,,unknown,0,10
+97,TRUE,Empty,Lysosomal alpha-mannosidase OS=Bos taurus GN=MAN2B1 PE=1 SV=4,MA2B1_BOVIN,MAN2B1,113 kDa,,unknown,0,10
+98,TRUE,Empty,Myosin-10 OS=Bos taurus GN=MYH10 PE=2 SV=2,MYH10_BOVIN,MYH10,229 kDa,,unknown,0,10
+99,TRUE,Empty,Transketolase OS=Bos taurus GN=TKT PE=2 SV=1,TKT_BOVIN,TKT,68 kDa,,unknown,0,10
+100,TRUE,Empty,Cationic trypsin OS=Bos taurus PE=1 SV=3,TRY1_BOVIN,,26 kDa,,unknown,0,10
+101,TRUE,Empty,Matrix Gla protein OS=Bos taurus GN=MGP PE=1 SV=1,MGP_BOVIN,MGP,12 kDa,,unknown,0,9
+102,TRUE,Empty,"Keratin, type II cytoskeletal 5 OS=Bos taurus GN=KRT5 PE=1 SV=1",K2C5_BOVIN,KRT5,63 kDa,TRUE,unknown,0,9
+103,TRUE,Empty,Complement C1q subcomponent subunit A OS=Bos taurus GN=C1QA PE=2 SV=1,C1QA_BOVIN,C1QA,26 kDa,,unknown,0,9
+104,TRUE,Empty,Coagulation factor XIII A chain (Fragment) OS=Bos taurus GN=F13A1 PE=1 SV=2,F13A_BOVIN,F13A1,23 kDa,,unknown,0,9
+105,TRUE,Empty,Inter-alpha-trypsin inhibitor heavy chain H1 OS=Bos taurus GN=ITIH1 PE=1 SV=1,ITIH1_BOVIN,ITIH1,101 kDa,,unknown,0,9
+106,TRUE,Empty,Microtubule-associated protein RP/EB family member 1 OS=Bos taurus GN=MAPRE1 PE=2 SV=3,MARE1_BOVIN,MAPRE1,30 kDa,,unknown,0,9
+107,TRUE,Empty,Transgelin OS=Bos taurus GN=TAGLN PE=1 SV=4,TAGL_BOVIN,TAGLN,23 kDa,,unknown,0,9
+108,TRUE,Empty,Alpha-1B-glycoprotein OS=Bos taurus GN=A1BG PE=1 SV=1,A1BG_BOVIN,A1BG,54 kDa,,unknown,0,8
+109,TRUE,Empty,Chondroadherin OS=Bos taurus GN=CHAD PE=1 SV=1,CHAD_BOVIN,CHAD,41 kDa,,unknown,0,7
+110,TRUE,Empty,Coronin-1A OS=Bos taurus GN=CORO1A PE=1 SV=3,COR1A_BOVIN,CORO1A,51 kDa,,unknown,0,7
+111,TRUE,Empty,Cathelicidin-4 OS=Bos taurus GN=CATHL4 PE=1 SV=1,CTHL4_BOVIN,CATHL4,16 kDa,,unknown,0,8
+112,TRUE,Empty,Sorbitol dehydrogenase OS=Bos taurus GN=SORD PE=2 SV=3,DHSO_BOVIN,SORD,38 kDa,,unknown,0,8
+113,TRUE,Empty,Hemoglobin subunit beta OS=Bos taurus GN=HBB PE=1 SV=1,HBB_BOVIN,HBB,16 kDa,TRUE,unknown,0,78
+114,TRUE,Empty,Insulin-like growth factor I OS=Bos taurus GN=IGF1 PE=1 SV=2,IGF1_BOVIN,IGF1,17 kDa,,unknown,0,8
+115,TRUE,Empty,LIM and SH3 domain protein 1 OS=Bos taurus GN=LASP1 PE=2 SV=1,LASP1_BOVIN,LASP1,30 kDa,,unknown,0,8
+116,TRUE,Empty,Microtubule-associated protein RP/EB family member 2 OS=Bos taurus GN=MAPRE2 PE=2 SV=1,MARE2_BOVIN,MAPRE2,37 kDa,,unknown,0,8
+117,TRUE,Empty,Tubulin alpha-4A chain OS=Bos taurus GN=TUBA4A PE=1 SV=2,TBA4A_BOVIN,TUBA4A,50 kDa,TRUE,unknown,0,8
+118,TRUE,Empty,Ras-related protein Rap-1b OS=Bos taurus GN=RAP1B PE=2 SV=1,RAP1B_BOVIN,RAP1B,21 kDa,,unknown,0,8
+119,TRUE,Empty,Angiogenin-1 OS=Bos taurus GN=ANG1 PE=1 SV=4,ANG1_BOVIN,ANG1,17 kDa,,unknown,0,7
+120,TRUE,Empty,Apolipoprotein A-IV OS=Bos taurus GN=APOA4 PE=2 SV=1,APOA4_BOVIN,APOA4,43 kDa,,unknown,0,7
+121,TRUE,Empty,Clusterin OS=Bos taurus GN=CLU PE=1 SV=1,CLUS_BOVIN,CLU,51 kDa,,unknown,0,7
+122,TRUE,Empty,Cathelicidin-2 OS=Bos taurus GN=CATHL2 PE=1 SV=2,CTHL2_BOVIN,CATHL2,20 kDa,TRUE,unknown,0,7
+123,TRUE,Empty,Insulin-like growth factor-binding protein 1 OS=Bos taurus GN=IGFBP1 PE=2 SV=2,IBP1_BOVIN,IGFBP1,29 kDa,,unknown,0,7
+124,TRUE,Empty,Phosphoglycerate kinase 1 OS=Bos taurus GN=PGK1 PE=2 SV=3,PGK1_BOVIN,PGK1,45 kDa,,unknown,0,6
+125,TRUE,Empty,Peptidyl-prolyl cis-trans isomerase A OS=Bos taurus GN=PPIA PE=1 SV=2,PPIA_BOVIN,PPIA,18 kDa,,unknown,0,7
+126,TRUE,Empty,Vitamin K-dependent protein S OS=Bos taurus GN=PROS1 PE=1 SV=1,PROS_BOVIN,PROS1,75 kDa,,unknown,0,7
+127,TRUE,Empty,Stress-induced-phosphoprotein 1 OS=Bos taurus GN=STIP1 PE=2 SV=1,STIP1_BOVIN,STIP1,62 kDa,,unknown,0,6
+128,TRUE,Empty,UDP-glucose 6-dehydrogenase OS=Bos taurus GN=UGDH PE=1 SV=2,UGDH_BOVIN,UGDH,55 kDa,,unknown,0,7
+129,TRUE,Empty,Coagulation factor IX OS=Bos taurus GN=F9 PE=1 SV=2,FA9_BOVIN,F9,52 kDa,,unknown,0,6
+130,TRUE,Empty,Peptidyl-prolyl cis-trans isomerase C OS=Bos taurus GN=PPIC PE=2 SV=1,PPIC_BOVIN,PPIC,23 kDa,,unknown,0,7
+131,TRUE,Empty,"Metallothionein-I, hippocampal OS=Bos taurus PE=1 SV=1",MT1H_BOVIN (+1),,6 kDa,,unknown,0,7
+132,TRUE,Empty,Alpha-1-acid glycoprotein OS=Bos taurus GN=ORM1 PE=2 SV=1,A1AG_BOVIN,ORM1,23 kDa,,unknown,0,6
+133,TRUE,Empty,Adiponectin OS=Bos taurus GN=ADIPOQ PE=1 SV=1,ADIPO_BOVIN,ADIPOQ,26 kDa,,unknown,0,6
+134,TRUE,Empty,Conglutinin OS=Bos taurus GN=CGN1 PE=1 SV=2,CONG_BOVIN,CGN1,38 kDa,,unknown,0,6
+135,TRUE,Empty,Elastin OS=Bos taurus GN=ELN PE=1 SV=1,ELN_BOVIN,ELN,64 kDa,,unknown,0,6
+136,TRUE,Empty,Ezrin OS=Bos taurus GN=EZR PE=1 SV=2,EZRI_BOVIN,EZR,69 kDa,TRUE,unknown,0,13
+137,TRUE,Empty,"Fructose-1,6-bisphosphatase 1 OS=Bos taurus GN=FBP1 PE=2 SV=3",F16P1_BOVIN,FBP1,37 kDa,,unknown,0,6
+138,TRUE,Empty,Glutathione S-transferase A1 OS=Bos taurus GN=GSTA1 PE=2 SV=3,GSTA1_BOVIN,GSTA1,25 kDa,TRUE,unknown,0,12
+139,TRUE,Empty,Protein HP-20 homolog OS=Bos taurus PE=2 SV=1,HP20_BOVIN,,21 kDa,,unknown,0,6
+140,TRUE,Empty,Serine protease HTRA1 OS=Bos taurus GN=HTRA1 PE=2 SV=1,HTRA1_BOVIN,HTRA1,52 kDa,,unknown,0,6
+141,TRUE,Empty,Olfactomedin-like protein 3 OS=Bos taurus GN=OLFML3 PE=2 SV=1,OLFL3_BOVIN,OLFML3,46 kDa,,unknown,0,6
+142,TRUE,Empty,Phospholipase A1 member A OS=Bos taurus GN=PLA1A PE=2 SV=1,PLA1A_BOVIN,PLA1A,50 kDa,,unknown,0,6
+143,TRUE,Empty,Suprabasin OS=Bos taurus GN=SBSN PE=2 SV=1,SBSN_BOVIN,SBSN,57 kDa,,unknown,0,6
+144,TRUE,Empty,Apolipoprotein C-III OS=Bos taurus GN=APOC3 PE=1 SV=2,APOC3_BOVIN,APOC3,11 kDa,,unknown,0,6
+145,TRUE,Empty,Apolipoprotein C-IV OS=Bos taurus GN=APOC4 PE=2 SV=1,APOC4_BOVIN,APOC4,14 kDa,,unknown,0,5
+146,TRUE,Empty,Actin-related protein 3 OS=Bos taurus GN=ACTR3 PE=1 SV=3,ARP3_BOVIN,ACTR3,47 kDa,,unknown,0,5
+147,TRUE,Empty,Heterogeneous nuclear ribonucleoprotein K OS=Bos taurus GN=HNRNPK PE=2 SV=1,HNRPK_BOVIN,HNRNPK,51 kDa,,unknown,0,5
+148,TRUE,Empty,Insulin-like growth factor-binding protein 5 OS=Bos taurus GN=IGFBP5 PE=2 SV=2,IBP5_BOVIN,IGFBP5,30 kDa,,unknown,0,5
+149,TRUE,Empty,Myosin light polypeptide 6 OS=Bos taurus GN=MYL6 PE=2 SV=2,MYL6_BOVIN,MYL6,17 kDa,,unknown,0,5
+150,TRUE,Empty,PDZ and LIM domain protein 1 OS=Bos taurus GN=PDLIM1 PE=2 SV=3,PDLI1_BOVIN,PDLIM1,36 kDa,,unknown,0,5
+151,TRUE,Empty,Phosphatidylethanolamine-binding protein 1 OS=Bos taurus GN=PEBP1 PE=1 SV=2,PEBP1_BOVIN,PEBP1,21 kDa,,unknown,0,5
+152,TRUE,Empty,Ribonuclease 4 OS=Bos taurus GN=RNASE4 PE=1 SV=4,RNAS4_BOVIN,RNASE4,14 kDa,,unknown,0,5
+153,TRUE,Empty,Fructose-bisphosphate aldolase B OS=Bos taurus GN=ALDOB PE=2 SV=1,ALDOB_BOVIN,ALDOB,40 kDa,,unknown,0,4
+154,TRUE,Empty,Flavin reductase (NADPH) OS=Bos taurus GN=BLVRB PE=1 SV=2,BLVRB_BOVIN,BLVRB,22 kDa,,unknown,0,4
+155,TRUE,Empty,Glutathione peroxidase 3 OS=Bos taurus GN=GPX3 PE=2 SV=2,GPX3_BOVIN,GPX3,26 kDa,,unknown,0,4
+156,TRUE,Empty,Kininogen-2 OS=Bos taurus GN=KNG2 PE=1 SV=1,KNG2_BOVIN,KNG2,69 kDa,TRUE,unknown,0,46
+157,TRUE,Empty,Poly(rC)-binding protein 1 OS=Bos taurus GN=PCBP1 PE=2 SV=1,PCBP1_BOVIN,PCBP1,37 kDa,,unknown,0,4
+158,TRUE,Empty,GTP-binding nuclear protein Ran OS=Bos taurus GN=RAN PE=2 SV=3,RAN_BOVIN,RAN,24 kDa,,unknown,0,4
+159,TRUE,Empty,Spondin-1 OS=Bos taurus GN=SPON1 PE=1 SV=1,SPON1_BOVIN,SPON1,91 kDa,,unknown,0,4
+160,TRUE,Empty,Thrombospondin-2 OS=Bos taurus GN=THBS2 PE=2 SV=2,TSP2_BOVIN,THBS2,130 kDa,TRUE,unknown,0,19
+161,TRUE,Empty,Cathepsin L1 OS=Bos taurus GN=CTSL PE=1 SV=3,CATL1_BOVIN (+1),CTSL,37 kDa,,unknown,0,4
+162,TRUE,Empty,Metalloproteinase inhibitor 2 OS=Bos taurus GN=TIMP2 PE=1 SV=2,TIMP2_BOVIN,TIMP2,24 kDa,,unknown,0,4
+163,TRUE,Empty,Carbonyl reductase [NADPH] 1 OS=Bos taurus GN=CBR1 PE=2 SV=1,CBR1_BOVIN,CBR1,31 kDa,,unknown,0,4
+164,TRUE,Empty,Heterogeneous nuclear ribonucleoproteins A2/B1 OS=Bos taurus GN=HNRNPA2B1 PE=2 SV=1,ROA2_BOVIN,HNRNPA2B1,36 kDa,,unknown,0,3
+165,TRUE,Empty,Dihydropyrimidinase-related protein 2 OS=Bos taurus GN=DPYSL2 PE=1 SV=1,DPYL2_BOVIN,DPYSL2,62 kDa,,unknown,0,4
+166,TRUE,Empty,Cathelicidin-3 OS=Bos taurus GN=CATHL3 PE=1 SV=2,CTHL3_BOVIN,CATHL3,22 kDa,TRUE,unknown,0,5
+167,TRUE,Empty,C-type lectin domain family 3 member A OS=Bos taurus GN=CLEC3A PE=2 SV=1,CLC3A_BOVIN,CLEC3A,22 kDa,,unknown,0,4
+168,TRUE,Empty,Calcyclin-binding protein OS=Bos taurus GN=CACYBP PE=2 SV=1,CYBP_BOVIN,CACYBP,26 kDa,,unknown,0,4
+169,TRUE,Empty,Angiogenin-2 OS=Bos taurus GN=ANG2 PE=1 SV=1,ANG2_BOVIN,ANG2,15 kDa,,unknown,0,4
+170,TRUE,Empty,Ribosome maturation protein SBDS OS=Bos taurus GN=SBDS PE=2 SV=1,SBDS_BOVIN,SBDS,29 kDa,,unknown,0,3
+171,TRUE,Empty,L-lactate dehydrogenase B chain OS=Bos taurus GN=LDHB PE=2 SV=4,LDHB_BOVIN,LDHB,37 kDa,,unknown,0,4
+172,TRUE,Empty,Serpin A3-7 OS=Bos taurus GN=SERPINA3-7 PE=3 SV=1,SPA37_BOVIN,SERPINA3-7,47 kDa,TRUE,unknown,0,3
+173,TRUE,Empty,Cofilin-2 OS=Bos taurus GN=CFL2 PE=2 SV=1,COF2_BOVIN,CFL2,19 kDa,TRUE,unknown,0,6
+174,TRUE,Empty,Destrin OS=Bos taurus GN=DSTN PE=2 SV=3,DEST_BOVIN,DSTN,19 kDa,TRUE,unknown,0,4
+175,TRUE,Empty,Histone H1.2 OS=Bos taurus GN=HIST1H1C PE=1 SV=2,H12_BOVIN (+1),HIST1H1C,21 kDa,,unknown,0,3
+176,TRUE,Empty,Myosin regulatory light chain 12B OS=Bos taurus GN=MYL12B PE=2 SV=1,ML12B_BOVIN (+1),MYL12B,20 kDa,,unknown,0,3
+177,TRUE,Empty,Aggrecan core protein OS=Bos taurus GN=ACAN PE=1 SV=3,PGCA_BOVIN,ACAN,246 kDa,,unknown,0,3
+178,TRUE,Empty,Septin-2 OS=Bos taurus GN=SEPT2 PE=2 SV=1,SEPT2_BOVIN,2-Sep,42 kDa,,unknown,0,3
+179,TRUE,Empty,Transthyretin OS=Bos taurus GN=TTR PE=1 SV=1,TTHY_BOVIN,TTR,16 kDa,,unknown,0,3
+180,TRUE,Empty,Peptidyl-glycine alpha-amidating monooxygenase OS=Bos taurus GN=PAM PE=1 SV=2,AMD_BOVIN,PAM,108 kDa,,unknown,0,3
+181,TRUE,Empty,Lipoprotein lipase OS=Bos taurus GN=LPL PE=1 SV=2,LIPL_BOVIN,LPL,53 kDa,,unknown,0,3
+182,TRUE,Empty,Polyadenylate-binding protein 1 OS=Bos taurus GN=PABPC1 PE=2 SV=1,PABP1_BOVIN,PABPC1,71 kDa,,unknown,0,3
+183,TRUE,Empty,Peroxiredoxin-6 OS=Bos taurus GN=PRDX6 PE=1 SV=3,PRDX6_BOVIN,PRDX6,25 kDa,,unknown,0,3
+184,TRUE,Empty,Dihydrodiol dehydrogenase 3 OS=Bos taurus PE=2 SV=1,DDBX_BOVIN,,37 kDa,,unknown,0,3
+185,TRUE,Empty,Complement C2 OS=Bos taurus GN=C2 PE=2 SV=1,CO2_BOVIN,C2,83 kDa,,unknown,0,3
+186,TRUE,Empty,Prolyl endopeptidase FAP OS=Bos taurus GN=FAP PE=1 SV=1,SEPR_BOVIN,FAP,88 kDa,,unknown,0,3
+187,TRUE,Empty,DNA-(apurinic or apyrimidinic site) lyase OS=Bos taurus GN=APEX1 PE=1 SV=2,APEX1_BOVIN,APEX1,36 kDa,,unknown,0,3
+188,TRUE,Empty,Melanoma-derived growth regulatory protein OS=Bos taurus GN=MIA PE=2 SV=1,MIA_BOVIN,MIA,14 kDa,,unknown,0,2
+189,TRUE,Empty,Calponin-2 OS=Bos taurus GN=CNN2 PE=2 SV=3,CNN2_BOVIN,CNN2,33 kDa,,unknown,0,3
+190,TRUE,Empty,Collagen alpha-1(IV) chain (Fragment) OS=Bos taurus GN=COL4A1 PE=1 SV=1,CO4A1_BOVIN,COL4A1,25 kDa,,unknown,0,3
+191,TRUE,Empty,Cathelicidin-1 OS=Bos taurus GN=CATHL1 PE=1 SV=2,CTHL1_BOVIN,CATHL1,18 kDa,,unknown,0,3
+192,TRUE,Empty,Desmocollin-1 OS=Bos taurus GN=DSC1 PE=1 SV=1,DSC1_BOVIN,DSC1,100 kDa,,unknown,0,3
+193,TRUE,Empty,"Keratin, type II cytoskeletal 79 OS=Bos taurus GN=KRT79 PE=2 SV=1",K2C79_BOVIN,KRT79,58 kDa,TRUE,unknown,0,4
+194,TRUE,Empty,Translation machinery-associated protein 7 OS=Bos taurus GN=TMA7 PE=3 SV=1,TMA7_BOVIN,TMA7,7 kDa,,unknown,0,3
+195,TRUE,Empty,Haptoglobin OS=Bos taurus GN=HP PE=2 SV=1,HPT_BOVIN,HP,45 kDa,,unknown,0,3
+196,TRUE,Empty,Protein disulfide-isomerase A3 OS=Bos taurus GN=PDIA3 PE=2 SV=1,PDIA3_BOVIN,PDIA3,57 kDa,,unknown,0,3
+197,TRUE,Empty,Heat shock cognate 71 kDa protein OS=Bos taurus GN=HSPA8 PE=1 SV=2,HSP7C_BOVIN,HSPA8,71 kDa,TRUE,unknown,0,4
+198,TRUE,Empty,Dynamin-1 OS=Bos taurus GN=DNM1 PE=2 SV=1,DYN1_BOVIN,DNM1,96 kDa,,unknown,0,3
+199,TRUE,Empty,"Serine hydroxymethyltransferase, cytosolic OS=Bos taurus GN=SHMT1 PE=2 SV=3",GLYC_BOVIN,SHMT1,53 kDa,,unknown,0,3
+200,TRUE,Empty,Cell division control protein 42 homolog OS=Bos taurus GN=CDC42 PE=1 SV=1,CDC42_BOVIN,CDC42,21 kDa,TRUE,unknown,0,3
+201,TRUE,Empty,Selenoprotein P OS=Bos taurus GN=SEPP1 PE=2 SV=2,SEPP1_BOVIN,SEPP1,45 kDa,,unknown,0,3
+202,TRUE,Empty,Carboxypeptidase N catalytic chain OS=Bos taurus GN=CPN1 PE=2 SV=1,CBPN_BOVIN,CPN1,53 kDa,,unknown,0,3
+203,TRUE,Empty,CD9 antigen OS=Bos taurus GN=CD9 PE=2 SV=2,CD9_BOVIN,CD9,25 kDa,,unknown,0,3
+204,TRUE,Empty,Galactokinase OS=Bos taurus GN=GALK1 PE=2 SV=2,GALK1_BOVIN,GALK1,42 kDa,,unknown,0,3
+205,TRUE,Empty,Tyrosine-protein kinase receptor Tie-1 OS=Bos taurus GN=TIE1 PE=2 SV=1,TIE1_BOVIN,TIE1,125 kDa,,unknown,0,3
+206,TRUE,Empty,EH domain-containing protein 1 OS=Bos taurus GN=EHD1 PE=1 SV=1,EHD1_BOVIN,EHD1,61 kDa,,unknown,0,3
+207,TRUE,Empty,Eukaryotic translation initiation factor 5A-1 OS=Bos taurus GN=EIF5A PE=2 SV=3,IF5A1_BOVIN,EIF5A,17 kDa,,unknown,0,3
+208,TRUE,Empty,"Glycerol-3-phosphate dehydrogenase [NAD(+)], cytoplasmic OS=Bos taurus GN=GPD1 PE=2 SV=3",GPDA_BOVIN,GPD1,38 kDa,,unknown,0,2
+209,TRUE,Empty,Bifunctional purine biosynthesis protein PURH OS=Bos taurus GN=ATIC PE=2 SV=1,PUR9_BOVIN,ATIC,64 kDa,,unknown,0,3
+210,TRUE,Empty,Coagulation factor X OS=Bos taurus GN=F10 PE=1 SV=1,FA10_BOVIN,F10,55 kDa,,unknown,0,2
+211,TRUE,Empty,Septin-11 OS=Bos taurus GN=SEPT11 PE=2 SV=1,SEP11_BOVIN,11-Sep,49 kDa,,unknown,0,3
+212,TRUE,Empty,Serum amyloid A protein OS=Bos taurus GN=SAA1 PE=1 SV=2,SAA_BOVIN,SAA1,15 kDa,,unknown,0,3
+213,TRUE,Empty,Histone H2A type 1 OS=Bos taurus PE=1 SV=2,H2A1_BOVIN (+2),,14 kDa,,unknown,0,3
+214,TRUE,Empty,Sorting nexin-3 OS=Bos taurus GN=SNX3 PE=2 SV=3,SNX3_BOVIN,SNX3,19 kDa,,unknown,0,2
+215,TRUE,Empty,T-complex protein 1 subunit zeta OS=Bos taurus GN=CCT6A PE=1 SV=3,TCPZ_BOVIN,CCT6A,58 kDa,,unknown,0,3
+216,TRUE,Empty,Cadherin-1 OS=Bos taurus GN=CDH1 PE=2 SV=1,CADH1_BOVIN,CDH1,98 kDa,,unknown,0,2
+217,TRUE,Empty,Complement C5a anaphylatoxin OS=Bos taurus GN=C5 PE=1 SV=1,CO5_BOVIN,C5,9 kDa,,unknown,0,2
+218,TRUE,Empty,Cysteine-rich protein 2 OS=Bos taurus GN=CRIP2 PE=2 SV=1,CRIP2_BOVIN,CRIP2,23 kDa,,unknown,0,2
+219,TRUE,Empty,Profilin-1 OS=Bos taurus GN=PFN1 PE=1 SV=2,PROF1_BOVIN,PFN1,15 kDa,,unknown,0,2
+220,TRUE,Empty,Polypyrimidine tract-binding protein 1 OS=Bos taurus GN=PTBP1 PE=2 SV=1,PTBP1_BOVIN,PTBP1,57 kDa,,unknown,0,2
+221,TRUE,Empty,Stathmin OS=Bos taurus GN=STMN1 PE=2 SV=3,STMN1_BOVIN,STMN1,17 kDa,,unknown,0,2
+222,TRUE,Empty,Testin OS=Bos taurus GN=TES PE=2 SV=1,TES_BOVIN,TES,48 kDa,,unknown,0,2
+223,TRUE,Empty,Adenylosuccinate lyase OS=Bos taurus GN=ADSL PE=2 SV=1,PUR8_BOVIN,ADSL,55 kDa,,unknown,0,2
+224,TRUE,Empty,Pulmonary surfactant-associated protein D OS=Bos taurus GN=SFTPD PE=1 SV=2,SFTPD_BOVIN,SFTPD,37 kDa,,unknown,0,2
+225,TRUE,Empty,Desmoglein-1 OS=Bos taurus GN=DSG1 PE=1 SV=1,DSG1_BOVIN,DSG1,112 kDa,,unknown,0,2
+226,TRUE,Empty,Cellular nucleic acid-binding protein OS=Bos taurus GN=CNBP PE=2 SV=1,CNBP_BOVIN,CNBP,19 kDa,,unknown,0,2
+227,TRUE,Empty,Tubulin beta-2B chain OS=Bos taurus GN=TUBB2B PE=1 SV=2,TBB2B_BOVIN (+3),TUBB2B,50 kDa,,unknown,0,2
+228,TRUE,Empty,C-X-C motif chemokine 6 OS=Bos taurus GN=CXCL6 PE=1 SV=2,CXCL6_BOVIN,CXCL6,12 kDa,,unknown,0,2
+229,TRUE,Empty,High mobility group protein B1 OS=Bos taurus GN=HMGB1 PE=1 SV=3,HMGB1_BOVIN,HMGB1,25 kDa,,unknown,0,2
+230,TRUE,Empty,Exostosin-2 OS=Bos taurus GN=EXT2 PE=1 SV=1,EXT2_BOVIN,EXT2,82 kDa,,unknown,0,2
+231,TRUE,Empty,Calpain-2 catalytic subunit OS=Bos taurus GN=CAPN2 PE=2 SV=2,CAN2_BOVIN,CAPN2,80 kDa,,unknown,0,2
+232,TRUE,Empty,Eukaryotic peptide chain release factor subunit 1 OS=Bos taurus GN=ETF1 PE=2 SV=3,ERF1_BOVIN,ETF1,49 kDa,,unknown,0,2
+233,TRUE,Empty,Mannose-binding protein C OS=Bos taurus GN=MBL PE=2 SV=1,MBL2_BOVIN,MBL,26 kDa,,unknown,0,2
+234,TRUE,Empty,Resistin OS=Bos taurus GN=RETN PE=3 SV=1,RETN_BOVIN,RETN,11 kDa,,unknown,0,2
+235,TRUE,Empty,Ras suppressor protein 1 OS=Bos taurus GN=RSU1 PE=2 SV=1,RSU1_BOVIN,RSU1,32 kDa,,unknown,0,2
+236,TRUE,Empty,Thyroxine-binding globulin OS=Bos taurus GN=SERPINA7 PE=2 SV=1,THBG_BOVIN,SERPINA7,46 kDa,,unknown,0,2
+237,TRUE,Empty,Ras-related C3 botulinum toxin substrate 2 OS=Bos taurus GN=RAC2 PE=2 SV=1,RAC2_BOVIN,RAC2,21 kDa,TRUE,unknown,0,3
+238,TRUE,Empty,L-xylulose reductase OS=Bos taurus GN=DCXR PE=2 SV=1,DCXR_BOVIN,DCXR,26 kDa,,unknown,0,2
+239,TRUE,Empty,Follistatin-related protein 3 OS=Bos taurus GN=FSTL3 PE=2 SV=1,FSTL3_BOVIN,FSTL3,28 kDa,,unknown,0,2
+240,TRUE,Empty,Apolipoprotein C-II OS=Bos taurus GN=APOC2 PE=1 SV=2,APOC2_BOVIN,APOC2,11 kDa,,unknown,0,2
+241,TRUE,Empty,Estrogen sulfotransferase OS=Bos taurus GN=SULT1E1 PE=1 SV=1,ST1E1_BOVIN,SULT1E1,35 kDa,,unknown,0,2
+242,TRUE,Empty,Twinfilin-1 OS=Bos taurus GN=TWF1 PE=2 SV=1,TWF1_BOVIN,TWF1,40 kDa,,unknown,0,2
+243,TRUE,Empty,Deleted in autism-related protein 1 homolog OS=Bos taurus PE=2 SV=1,DIA1R_BOVIN,,48 kDa,,unknown,0,2
+244,TRUE,Empty,"Lysozyme C, non-stomach isozyme OS=Bos taurus GN=LYS PE=2 SV=4",LYSCN_BOVIN,LYS,16 kDa,,unknown,0,2
+245,TRUE,Empty,Calpastatin OS=Bos taurus GN=CAST PE=1 SV=2,ICAL_BOVIN,CAST,76 kDa,,unknown,0,2
+246,TRUE,Empty,Collagen alpha-1(III) chain OS=Bos taurus GN=COL3A1 PE=1 SV=1,CO3A1_BOVIN,COL3A1,94 kDa,,unknown,0,2
+247,TRUE,Empty,Collagen alpha-2(IV) chain (Fragment) OS=Bos taurus GN=COL4A2 PE=1 SV=1,CO4A2_BOVIN,COL4A2,25 kDa,,unknown,0,2
+248,TRUE,Empty,cAMP-dependent protein kinase catalytic subunit alpha OS=Bos taurus GN=PRKACA PE=1 SV=3,KAPCA_BOVIN,PRKACA,41 kDa,,unknown,0,2
+249,TRUE,Empty,LRRF2_BOVIN-DECOY,LRRF2_BOVIN-DECOY,,?,,unknown,0,2
+250,TRUE,Empty,DnaJ homolog subfamily C member 3 OS=Bos taurus GN=DNAJC3 PE=1 SV=1,DNJC3_BOVIN,DNAJC3,58 kDa,,unknown,0,2
+251,TRUE,Empty,TCEA3_BOVIN-DECOY,TCEA3_BOVIN-DECOY,,?,,unknown,0,2
+252,TRUE,Empty,14-3-3 protein zeta/delta OS=Bos taurus GN=YWHAZ PE=1 SV=1,1433Z_BOVIN,YWHAZ,28 kDa,,unknown,0,2
+253,TRUE,Empty,"Keratin, type I cytoskeletal 17 OS=Bos taurus GN=KRT17 PE=2 SV=1",K1C17_BOVIN,KRT17,49 kDa,TRUE,unknown,0,5
+254,TRUE,Empty,Brain acid soluble protein 1 OS=Bos taurus GN=BASP1 PE=1 SV=3,BASP1_BOVIN,BASP1,23 kDa,,unknown,0,2
+END OF FILE,,,,,,,,,,

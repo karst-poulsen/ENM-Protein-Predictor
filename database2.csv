@@ -1,0 +1,253 @@
+yourlist:M201907168471C63D39733769F8E060B506551E12296F2EY,Entry,Entry name,Status,Protein names,Gene names,Organism,Length
+CO3_BOVIN,Q2UVX4,CO3_BOVIN,reviewed,Complement C3 [Cleaved into: Complement C3 beta chain; Complement C3 alpha chain; C3a anaphylatoxin; C3-beta-c (C3bc); Acylation stimulating protein (ASP) (C3adesArg); Complement C3b alpha' chain; Complement C3c alpha' chain fragment 1; Complement C3dg fragment; Complement C3g fragment; Complement C3d fragment; Complement C3f fragment; Complement C3c alpha' chain fragment 2],C3,Bos taurus (Bovine),1661
+PLMN_BOVIN,P06868,PLMN_BOVIN,reviewed,"Plasminogen (EC 3.4.21.7) [Cleaved into: Plasmin heavy chain A; Activation peptide; Plasmin heavy chain A, short form; Plasmin light chain B]",PLG,Bos taurus (Bovine),812
+ALBU_BOVIN,P02769,ALBU_BOVIN,reviewed,Serum albumin (BSA) (allergen Bos d 6),ALB,Bos taurus (Bovine),607
+GELS_BOVIN,Q3SX14,GELS_BOVIN,reviewed,Gelsolin (Actin-depolymerizing factor) (ADF) (Brevin),GSN,Bos taurus (Bovine),731
+CFAH_BOVIN,Q28085,CFAH_BOVIN,reviewed,Complement factor H (H factor 1),CFH HF1,Bos taurus (Bovine),1236
+TSP1_BOVIN,Q28178,TSP1_BOVIN,reviewed,Thrombospondin-1 (Glycoprotein G),THBS1 TSP-1 TSP1,Bos taurus (Bovine),1170
+HBBF_BOVIN,P02081,HBBF_BOVIN,reviewed,"Hemoglobin fetal subunit beta (Beta-globin, fetal) (Hemoglobin beta chain, fetal) (Hemoglobin gamma chain)",,Bos taurus (Bovine),145
+FETUA_BOVIN,P12763,FETUA_BOVIN,reviewed,Alpha-2-HS-glycoprotein (Asialofetuin) (Fetuin-A),AHSG FETUA,Bos taurus (Bovine),359
+CO7_BOVIN,Q29RQ1,CO7_BOVIN,reviewed,Complement component C7,C7,Bos taurus (Bovine),843
+APOH_BOVIN,P17690,APOH_BOVIN,reviewed,Beta-2-glycoprotein 1 (Apolipoprotein H) (Apo-H) (Beta-2-glycoprotein I) (B2GPI) (Beta(2)GPI),APOH,Bos taurus (Bovine),345
+FINC_BOVIN,P07589,FINC_BOVIN,reviewed,Fibronectin (FN) [Cleaved into: Anastellin],FN1,Bos taurus (Bovine),2478
+CFAB_BOVIN,P81187,CFAB_BOVIN,reviewed,Complement factor B (EC 3.4.21.47) (C3/C5 convertase) (EC-VMFB) [Cleaved into: Complement factor B Ba fragment; Complement factor B Bb fragment],CFB BF,Bos taurus (Bovine),761
+CO4_BOVIN,P01030,CO4_BOVIN,reviewed,Complement C4 [Cleaved into: Complement C4 alpha chain; C4a anaphylatoxin; Complement C4 gamma chain] (Fragments),C4,Bos taurus (Bovine),920
+FIBA_BOVIN,P02672,FIBA_BOVIN,reviewed,Fibrinogen alpha chain [Cleaved into: Fibrinopeptide A; Fibrinogen alpha chain],FGA,Bos taurus (Bovine),615
+TRFE_BOVIN,Q29443,TRFE_BOVIN,reviewed,Serotransferrin (Transferrin) (Beta-1 metal-binding globulin) (Siderophilin),TF,Bos taurus (Bovine),704
+A2MG_BOVIN,Q7SIH1,A2MG_BOVIN,reviewed,Alpha-2-macroglobulin (Alpha-2-M),A2M,Bos taurus (Bovine),1510
+HBA_BOVIN,P01966,HBA_BOVIN,reviewed,Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain),HBA,Bos taurus (Bovine),142
+FA5_BOVIN,Q28107,FA5_BOVIN,reviewed,Coagulation factor V (Activated protein C cofactor) [Cleaved into: Coagulation factor V heavy chain; Coagulation factor V light chain],F5,Bos taurus (Bovine),2211
+FIBB_BOVIN,P02676,FIBB_BOVIN,reviewed,Fibrinogen beta chain [Cleaved into: Fibrinopeptide B; Fibrinogen beta chain],FGB,Bos taurus (Bovine),468
+COMP_BOVIN,P35445,COMP_BOVIN,reviewed,Cartilage oligomeric matrix protein (COMP),COMP,Bos taurus (Bovine),756
+TETN_BOVIN,Q2KIS7,TETN_BOVIN,reviewed,Tetranectin (TN) (C-type lectin domain family 3 member B),CLEC3B,Bos taurus (Bovine),202
+ADH1_YEAST,P00330,ADH1_YEAST,reviewed,Alcohol dehydrogenase 1 (EC 1.1.1.1) (Alcohol dehydrogenase I) (YADH-1),ADH1 ADC1 YOL086C O0947,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),348
+APOA1_BOVIN,P15497,APOA1_BOVIN,reviewed,Apolipoprotein A-I (Apo-AI) (ApoA-I) (Apolipoprotein A1) [Cleaved into: Proapolipoprotein A-I (ProapoA-I); Truncated apolipoprotein A-I],APOA1,Bos taurus (Bovine),265
+ITIH4_BOVIN,Q3T052,ITIH4_BOVIN,reviewed,Inter-alpha-trypsin inhibitor heavy chain H4 (ITI heavy chain H4) (ITI-HC4) (Inter-alpha-inhibitor heavy chain 4),ITIH4,Bos taurus (Bovine),916
+FIBG_BOVIN,P12799,FIBG_BOVIN,reviewed,Fibrinogen gamma-B chain (Gamma'),FGG,Bos taurus (Bovine),444
+IBP2_BOVIN,P13384,IBP2_BOVIN,reviewed,Insulin-like growth factor-binding protein 2 (IBP-2) (IGF-binding protein 2) (IGFBP-2),IGFBP2,Bos taurus (Bovine),317
+KNG1_BOVIN,P01044,KNG1_BOVIN,reviewed,Kininogen-1 (Kininogen I) (Thiol proteinase inhibitor) [Cleaved into: Kininogen-1 heavy chain; Bradykinin (Kallidin I); Lysyl-bradykinin (Kallidin II); Kininogen-1 light chain],KNG1,Bos taurus (Bovine),621
+FETA_BOVIN,Q3SZ57,FETA_BOVIN,reviewed,Alpha-fetoprotein (Alpha-1-fetoprotein) (Alpha-fetoglobulin),AFP,Bos taurus (Bovine),610
+PEDF_BOVIN,Q95121,PEDF_BOVIN,reviewed,Pigment epithelium-derived factor (PEDF) (Serpin F1),SERPINF1 PEDF,Bos taurus (Bovine),416
+IPSP_BOVIN,Q9N2I2,IPSP_BOVIN,reviewed,Plasma serine protease inhibitor (Protein C inhibitor) (PCI) (Serpin A5),SERPINA5,Bos taurus (Bovine),404
+F12AI_BOVIN,P50448,F12AI_BOVIN,reviewed,Factor XIIa inhibitor (XIIaINH),,Bos taurus (Bovine),468
+FA12_BOVIN,P98140,FA12_BOVIN,reviewed,Coagulation factor XII (EC 3.4.21.38) (Hageman factor) (HAF) [Cleaved into: Coagulation factor XIIa heavy chain; Coagulation factor XIIa light chain],F12,Bos taurus (Bovine),612
+G3P_BOVIN,P10096,G3P_BOVIN,reviewed,Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) (EC 1.2.1.12) (Peptidyl-cysteine S-nitrosylase GAPDH) (EC 2.6.99.-),GAPDH GAPD,Bos taurus (Bovine),333
+CO6_BOVIN,Q29RU4,CO6_BOVIN,reviewed,Complement component C6,C6,Bos taurus (Bovine),932
+THRB_BOVIN,P00735,THRB_BOVIN,reviewed,Prothrombin (EC 3.4.21.5) (Coagulation factor II) [Cleaved into: Activation peptide fragment 1; Activation peptide fragment 2; Thrombin light chain; Thrombin heavy chain],F2,Bos taurus (Bovine),625
+CAP1_BOVIN,Q3SYV4,CAP1_BOVIN,reviewed,Adenylyl cyclase-associated protein 1 (CAP 1),CAP1,Bos taurus (Bovine),472
+HGFL_BOVIN,Q24K22,HGFL_BOVIN,reviewed,Hepatocyte growth factor-like protein (Macrophage stimulatory protein) (Macrophage-stimulating protein) (MSP) [Cleaved into: Hepatocyte growth factor-like protein alpha chain; Hepatocyte growth factor-like protein beta chain],MST1 HGFL,Bos taurus (Bovine),712
+A1AT_BOVIN,P34955,A1AT_BOVIN,reviewed,Alpha-1-antiproteinase (Alpha-1-antitrypsin) (Alpha-1-proteinase inhibitor) (Serpin A1),SERPINA1 PI,Bos taurus (Bovine),416
+CFAD_BOVIN,Q3T0A3,CFAD_BOVIN,reviewed,Complement factor D (EC 3.4.21.46) (Adipsin) (C3 convertase activator) (Properdin factor D),CFD,Bos taurus (Bovine),259
+CO2A1_BOVIN,P02459,CO2A1_BOVIN,reviewed,Collagen alpha-1(II) chain (Alpha-1 type II collagen),COL2A1,Bos taurus (Bovine),1487
+CYTC_BOVIN,P01035,CYTC_BOVIN,reviewed,Cystatin-C (Colostrum thiol proteinase inhibitor) (Cystatin-3),CST3,Bos taurus (Bovine),148
+CBPB2_BOVIN,Q2KIG3,CBPB2_BOVIN,reviewed,Carboxypeptidase B2 (EC 3.4.17.20) (Carboxypeptidase U) (CPU) (Plasma carboxypeptidase B) (pCPB) (Thrombin-activable fibrinolysis inhibitor) (TAFI),CPB2,Bos taurus (Bovine),423
+TSP4_BOVIN,Q3SWW8,TSP4_BOVIN,reviewed,Thrombospondin-4,THBS4,Bos taurus (Bovine),961
+APOE_BOVIN,Q03247,APOE_BOVIN,reviewed,Apolipoprotein E (Apo-E),APOE,Bos taurus (Bovine),316
+IBP6_BOVIN,Q05718,IBP6_BOVIN,reviewed,Insulin-like growth factor-binding protein 6 (IBP-6) (IGF-binding protein 6) (IGFBP-6),IGFBP6,Bos taurus (Bovine),237
+FBN1_BOVIN,P98133,FBN1_BOVIN,reviewed,Fibrillin-1 (MP340) [Cleaved into: Asprosin],FBN1,Bos taurus (Bovine),2871
+IBP4_BOVIN,Q05716,IBP4_BOVIN,reviewed,Insulin-like growth factor-binding protein 4 (IBP-4) (IGF-binding protein 4) (IGFBP-4),IGFBP4,Bos taurus (Bovine),258
+KLKB1_BOVIN,Q2KJ63,KLKB1_BOVIN,reviewed,Plasma kallikrein (EC 3.4.21.34) (Fletcher factor) (Kininogenin) (Plasma prekallikrein) [Cleaved into: Plasma kallikrein heavy chain; Plasma kallikrein light chain],KLKB1,Bos taurus (Bovine),636
+PGRP1_BOVIN,Q8SPP7,PGRP1_BOVIN,reviewed,Peptidoglycan recognition protein 1 (Oligosaccharide-binding protein) (OBP) (Peptidoglycan recognition protein short) (PGRP-S),PGLYRP1 PGLYRP PGRP,Bos taurus (Bovine),190
+URP2_BOVIN,Q32LP0,URP2_BOVIN,reviewed,Fermitin family homolog 3 (Kindlin-3) (Unc-112-related protein 2),FERMT3 KIND3 URP2,Bos taurus (Bovine),665
+ACTB_BOVIN,P60712,ACTB_BOVIN,reviewed,"Actin, cytoplasmic 1 (Beta-actin) [Cleaved into: Actin, cytoplasmic 1, N-terminally processed]",ACTB,Bos taurus (Bovine),375
+VASP_BOVIN,Q2TA49,VASP_BOVIN,reviewed,Vasodilator-stimulated phosphoprotein (VASP),VASP,Bos taurus (Bovine),383
+VTDB_BOVIN,Q3MHN5,VTDB_BOVIN,reviewed,Vitamin D-binding protein (DBP) (VDB) (Gc-globulin) (Group-specific component),GC,Bos taurus (Bovine),474
+COF1_BOVIN,Q5E9F7,COF1_BOVIN,reviewed,"Cofilin-1 (Cofilin, non-muscle isoform)",CFL1,Bos taurus (Bovine),166
+C1S_BOVIN,Q0VCX1,C1S_BOVIN,reviewed,Complement C1s subcomponent (EC 3.4.21.42) (C1 esterase) (Complement component 1 subcomponent s) [Cleaved into: Complement C1s subcomponent heavy chain; Complement C1s subcomponent light chain],C1S,Bos taurus (Bovine),689
+A2AP_BOVIN,P28800,A2AP_BOVIN,reviewed,Alpha-2-antiplasmin (Alpha-2-AP) (Alpha-2-plasmin inhibitor) (Alpha-2-PI) (Serpin F2),SERPINF2 PLI,Bos taurus (Bovine),492
+C4BPA_BOVIN,Q28065,C4BPA_BOVIN,reviewed,C4b-binding protein alpha chain (C4bp),C4BPA,Bos taurus (Bovine),610
+CATA_BOVIN,P00432,CATA_BOVIN,reviewed,Catalase (EC 1.11.1.6),CAT,Bos taurus (Bovine),527
+EF1A1_BOVIN,P68103,EF1A1_BOVIN,reviewed,Elongation factor 1-alpha 1 (EF-1-alpha-1) (Elongation factor Tu) (EF-Tu) (Eukaryotic elongation factor 1 A-1) (eEF1A-1),EEF1A1 EEF1A EF1A,Bos taurus (Bovine),462
+REG1_BOVIN,P82943,REG1_BOVIN,reviewed,Regakine-1,,Bos taurus (Bovine),92
+BGH3_BOVIN,P55906,BGH3_BOVIN,reviewed,Transforming growth factor-beta-induced protein ig-h3 (Beta ig-h3) (MP70) (MP78),TGFBI BIGH3,Bos taurus (Bovine),683
+CADH5_BOVIN,Q6URK6,CADH5_BOVIN,reviewed,Cadherin-5 (Vascular endothelial cadherin) (VE-cadherin) (CD antigen CD144),CDH5,Bos taurus (Bovine),783
+CO1A1_BOVIN,P02453,CO1A1_BOVIN,reviewed,Collagen alpha-1(I) chain (Alpha-1 type I collagen),COL1A1,Bos taurus (Bovine),1463
+CO1A2_BOVIN,P02465,CO1A2_BOVIN,reviewed,Collagen alpha-2(I) chain (Alpha-2 type I collagen),COL1A2,Bos taurus (Bovine),1364
+FETUB_BOVIN,Q58D62,FETUB_BOVIN,reviewed,Fetuin-B,FETUB,Bos taurus (Bovine),387
+HABP2_BOVIN,Q5E9Z2,HABP2_BOVIN,reviewed,Hyaluronan-binding protein 2 (EC 3.4.21.-) [Cleaved into: Hyaluronan-binding protein 2 50 kDa heavy chain; Hyaluronan-binding protein 2 50 kDa heavy chain alternate form; Hyaluronan-binding protein 2 27 kDa light chain; Hyaluronan-binding protein 2 27 kDa light chain alternate form],HABP2,Bos taurus (Bovine),558
+LBP_BOVIN,Q2TBI0,LBP_BOVIN,reviewed,Lipopolysaccharide-binding protein (LBP),LBP,Bos taurus (Bovine),481
+ANT3_BOVIN,P41361,ANT3_BOVIN,reviewed,Antithrombin-III (ATIII) (Serpin C1),SERPINC1 AT3,Bos taurus (Bovine),465
+C1QB_BOVIN,Q2KIV9,C1QB_BOVIN,reviewed,Complement C1q subcomponent subunit B,C1QB,Bos taurus (Bovine),247
+AMBP_BOVIN,P00978,AMBP_BOVIN,reviewed,Protein AMBP [Cleaved into: Alpha-1-microglobulin; Inter-alpha-trypsin inhibitor light chain (ITI-LC) (BI-14) (Bikunin) (Cumulus extracellular matrix-stabilizing factor) (ESF) (HI-30); Trypstatin],AMBP ITIL,Bos taurus (Bovine),352
+GSTA2_BOVIN,O18879,GSTA2_BOVIN,reviewed,Glutathione S-transferase A2 (EC 2.5.1.18) (GST class-alpha member 2) (Glutathione S-transferase alpha-2),GSTA2,Bos taurus (Bovine),223
+HEMO_BOVIN,Q3SZV7,HEMO_BOVIN,reviewed,Hemopexin,HPX,Bos taurus (Bovine),459
+IGF2_BOVIN,P07456,IGF2_BOVIN,reviewed,Insulin-like growth factor II (IGF-II) (Erythrotropin) [Cleaved into: Insulin-like growth factor II; Preptin],IGF2,Bos taurus (Bovine),179
+MOES_BOVIN,Q2HJ49,MOES_BOVIN,reviewed,Moesin (Membrane-organizing extension spike protein),MSN,Bos taurus (Bovine),577
+APOA2_BOVIN,P81644,APOA2_BOVIN,reviewed,Apolipoprotein A-II (Apo-AII) (ApoA-II) (Antimicrobial peptide BAMP-1) (Apolipoprotein A2) [Cleaved into: Proapolipoprotein A-II (ProapoA-II); Truncated apolipoprotein A-II (Apolipoprotein A-II(1-76))],APOA2,Bos taurus (Bovine),100
+EF2_BOVIN,Q3SYU2,EF2_BOVIN,reviewed,Elongation factor 2 (EF-2),EEF2,Bos taurus (Bovine),858
+SAHH_BOVIN,Q3MHL4,SAHH_BOVIN,reviewed,Adenosylhomocysteinase (AdoHcyase) (EC 3.3.1.1) (S-adenosyl-L-homocysteine hydrolase),AHCY,Bos taurus (Bovine),432
+IBP3_BOVIN,P20959,IBP3_BOVIN,reviewed,Insulin-like growth factor-binding protein 3 (IBP-3) (IGF-binding protein 3) (IGFBP-3),IGFBP3,Bos taurus (Bovine),291
+SERA_BOVIN,Q5EAD2,SERA_BOVIN,reviewed,D-3-phosphoglycerate dehydrogenase (3-PGDH) (EC 1.1.1.95) (2-oxoglutarate reductase) (EC 1.1.1.399) (Malate dehydrogenase) (EC 1.1.1.37),PHGDH,Bos taurus (Bovine),533
+SPP24_BOVIN,Q27967,SPP24_BOVIN,reviewed,Secreted phosphoprotein 24 (Spp-24) (Secreted phosphoprotein 2),SPP2 SPP24,Bos taurus (Bovine),203
+B2MG_BOVIN,P01888,B2MG_BOVIN,reviewed,Beta-2-microglobulin (Lactollin),B2M,Bos taurus (Bovine),118
+K1C10_BOVIN,P06394,K1C10_BOVIN,reviewed,"Keratin, type I cytoskeletal 10 (Cytokeratin VIB) (Cytokeratin-10) (CK-10) (Cytokeratin-6B) (Keratin-10) (K10)",KRT10,Bos taurus (Bovine),526
+SERPH_BOVIN,Q2KJH6,SERPH_BOVIN,reviewed,Serpin H1 (Collagen-binding protein) (Colligin),SERPINH1,Bos taurus (Bovine),418
+WDR1_BOVIN,Q2KJH4,WDR1_BOVIN,reviewed,WD repeat-containing protein 1,WDR1,Bos taurus (Bovine),606
+BPT2_BOVIN,P04815,BPT2_BOVIN,reviewed,Spleen trypsin inhibitor I (SI-I) [Cleaved into: Spleen trypsin inhibitor II (SI-II); Spleen trypsin inhibitor III (SI-III)],,Bos taurus (Bovine),100
+ADHX_BOVIN,Q3ZC42,ADHX_BOVIN,reviewed,Alcohol dehydrogenase class-3 (EC 1.1.1.1) (Alcohol dehydrogenase 5) (Alcohol dehydrogenase class-III) (Glutathione-dependent formaldehyde dehydrogenase) (FALDH) (FDH) (GSH-FDH) (EC 1.1.1.-) (S-(hydroxymethyl)glutathione dehydrogenase) (EC 1.1.1.284),ADH5,Bos taurus (Bovine),374
+CO9_BOVIN,Q3MHN2,CO9_BOVIN,reviewed,Complement component C9,C9,Bos taurus (Bovine),548
+LECT2_BOVIN,O62644,LECT2_BOVIN,reviewed,Leukocyte cell-derived chemotaxin-2 (LECT-2) (bLECT2) (Chondromodulin II) (ChM-II) (bChM-II),LECT2,Bos taurus (Bovine),151
+B4GT1_BOVIN,P08037,B4GT1_BOVIN,reviewed,"Beta-1,4-galactosyltransferase 1 (Beta-1,4-GalTase 1) (Beta4Gal-T1) (b4Gal-T1) (EC 2.4.1.-) (Beta-N-acetylglucosaminyl-glycolipid beta-1,4-galactosyltransferase) (Beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase) (EC 2.4.1.38) (Lactose synthase A protein) (EC 2.4.1.22) (N-acetyllactosamine synthase) (EC 2.4.1.90) (Nal synthase) (UDP-Gal:beta-GlcNAc beta-1,4-galactosyltransferase 1) (UDP-galactose:beta-N-acetylglucosamine beta-1,4-galactosyltransferase 1) [Cleaved into: Processed beta-1,4-galactosyltransferase 1]",B4GALT1 GALT GGTB2,Bos taurus (Bovine),402
+FA11_BOVIN,Q5NTB3,FA11_BOVIN,reviewed,Coagulation factor XI (FXI) (EC 3.4.21.27) (Plasma thromboplastin antecedent) (PTA) [Cleaved into: Coagulation factor XIa heavy chain; Coagulation factor XIa light chain],F11,Bos taurus (Bovine),625
+ITIH3_BOVIN,P56652,ITIH3_BOVIN,reviewed,Inter-alpha-trypsin inhibitor heavy chain H3 (ITI heavy chain H3) (ITI-HC3) (Inter-alpha-inhibitor heavy chain 3),ITIH3,Bos taurus (Bovine),891
+TAGL2_BOVIN,Q5E9F5,TAGL2_BOVIN,reviewed,Transgelin-2,TAGLN2,Bos taurus (Bovine),199
+LYOX_BOVIN,P33072,LYOX_BOVIN,reviewed,Protein-lysine 6-oxidase (EC 1.4.3.13) (Lysyl oxidase),LOX,Bos taurus (Bovine),418
+ENOA_BOVIN,Q9XSJ4,ENOA_BOVIN,reviewed,Alpha-enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (Enolase 1) (HAP47) (Non-neural enolase) (NNE) (Phosphopyruvate hydratase),ENO1,Bos taurus (Bovine),434
+HS71A_BOVIN,Q27975,HS71A_BOVIN,reviewed,Heat shock 70 kDa protein 1A (Heat shock 70 kDa protein 1) (HSP70.1),HSPA1A HSP70-1,Bos taurus (Bovine),641
+ASSY_BOVIN,P14568,ASSY_BOVIN,reviewed,Argininosuccinate synthase (EC 6.3.4.5) (Citrulline--aspartate ligase),ASS1,Bos taurus (Bovine),412
+MA2B1_BOVIN,Q29451,MA2B1_BOVIN,reviewed,Lysosomal alpha-mannosidase (Laman) (EC 3.2.1.24) (Lysosomal acid alpha-mannosidase) (Mannosidase alpha class 2B member 1) (Mannosidase alpha-B) [Cleaved into: Lysosomal alpha-mannosidase A peptide; Lysosomal alpha-mannosidase B peptide; Lysosomal alpha-mannosidase C peptide; Lysosomal alpha-mannosidase D peptide; Lysosomal alpha-mannosidase E peptide],MAN2B1 MANB,Bos taurus (Bovine),999
+MYH10_BOVIN,Q27991,MYH10_BOVIN,reviewed,"Myosin-10 (Cellular myosin heavy chain, type B) (Myosin heavy chain 10) (Myosin heavy chain, non-muscle IIb) (Non-muscle myosin heavy chain B) (NMMHC-B) (Non-muscle myosin heavy chain IIb) (NMMHC II-b) (NMMHC-IIB)",MYH10,Bos taurus (Bovine),1976
+TKT_BOVIN,Q6B855,TKT_BOVIN,reviewed,Transketolase (TK) (EC 2.2.1.1),TKT TKT1,Bos taurus (Bovine),623
+TRY1_BOVIN,P00760,TRY1_BOVIN,reviewed,Cationic trypsin (EC 3.4.21.4) (Beta-trypsin) [Cleaved into: Alpha-trypsin chain 1; Alpha-trypsin chain 2],,Bos taurus (Bovine),246
+MGP_BOVIN,P07507,MGP_BOVIN,reviewed,Matrix Gla protein (MGP) [Cleaved into: Matrix Gla protein long form; Matrix Gla protein short form],MGP,Bos taurus (Bovine),103
+K2C5_BOVIN,Q5XQN5,K2C5_BOVIN,reviewed,"Keratin, type II cytoskeletal 5 (Cytokeratin-5) (CK-5) (Keratin-5) (K5) (Type-II keratin Kb5)",KRT5,Bos taurus (Bovine),601
+C1QA_BOVIN,Q5E9E3,C1QA_BOVIN,reviewed,Complement C1q subcomponent subunit A,C1QA,Bos taurus (Bovine),244
+F13A_BOVIN,P12260,F13A_BOVIN,reviewed,Coagulation factor XIII A chain (Coagulation factor XIIIa) (EC 2.3.2.13) (Protein-glutamine gamma-glutamyltransferase A chain) (Transglutaminase A chain) (Fragment),F13A1 F13A,Bos taurus (Bovine),198
+ITIH1_BOVIN,Q0VCM5,ITIH1_BOVIN,reviewed,Inter-alpha-trypsin inhibitor heavy chain H1 (ITI heavy chain H1) (ITI-HC1) (Inter-alpha-inhibitor heavy chain 1),ITIH1,Bos taurus (Bovine),906
+MARE1_BOVIN,Q3ZBD9,MARE1_BOVIN,reviewed,Microtubule-associated protein RP/EB family member 1 (APC-binding protein EB1) (End-binding protein 1) (EB1),MAPRE1,Bos taurus (Bovine),268
+TAGL_BOVIN,Q9TS87,TAGL_BOVIN,reviewed,Transgelin (25 kDa F-actin-binding protein) (Smooth muscle protein 22-alpha) (SM22-alpha),TAGLN SM22,Bos taurus (Bovine),201
+A1BG_BOVIN,Q2KJF1,A1BG_BOVIN,reviewed,Alpha-1B-glycoprotein (Alpha-1-B glycoprotein),A1BG,Bos taurus (Bovine),503
+CHAD_BOVIN,Q27972,CHAD_BOVIN,reviewed,Chondroadherin (38 kDa bone protein) (Cartilage leucine-rich protein) [Cleaved into: Chondroadherin minor form],CHAD,Bos taurus (Bovine),361
+COR1A_BOVIN,Q92176,COR1A_BOVIN,reviewed,Coronin-1A (Coronin-like protein A) (Clipin-A) (Coronin-like protein p57) (Tryptophan aspartate-containing coat protein) (TACO),CORO1A CORO1,Bos taurus (Bovine),461
+CTHL4_BOVIN,P33046,CTHL4_BOVIN,reviewed,Cathelicidin-4 (Indolicidin),CATHL4,Bos taurus (Bovine),144
+DHSO_BOVIN,Q58D31,DHSO_BOVIN,reviewed,Sorbitol dehydrogenase (SDH) (EC 1.1.1.-) (L-iditol 2-dehydrogenase) (EC 1.1.1.14) (Polyol dehydrogenase) (Xylitol dehydrogenase) (XDH) (EC 1.1.1.9),SORD,Bos taurus (Bovine),356
+HBB_BOVIN,P02070,HBB_BOVIN,reviewed,Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain) [Cleaved into: Spinorphin],HBB,Bos taurus (Bovine),145
+IGF1_BOVIN,P07455,IGF1_BOVIN,reviewed,Insulin-like growth factor I (IGF-I) (Somatomedin),IGF1,Bos taurus (Bovine),154
+LASP1_BOVIN,Q3B7M5,LASP1_BOVIN,reviewed,LIM and SH3 domain protein 1 (LASP-1),LASP1,Bos taurus (Bovine),260
+MARE2_BOVIN,Q3SZP2,MARE2_BOVIN,reviewed,Microtubule-associated protein RP/EB family member 2,MAPRE2,Bos taurus (Bovine),326
+TBA4A_BOVIN,P81948,TBA4A_BOVIN,reviewed,Tubulin alpha-4A chain (Alpha-tubulin 1) (Tubulin alpha-1 chain),TUBA4A TUBA1,Bos taurus (Bovine),448
+RAP1B_BOVIN,P61223,RAP1B_BOVIN,reviewed,Ras-related protein Rap-1b (GTP-binding protein smg p21B),RAP1B,Bos taurus (Bovine),184
+ANG1_BOVIN,P10152,ANG1_BOVIN,reviewed,Angiogenin-1 (EC 3.1.27.-),ANG1 ANG,Bos taurus (Bovine),148
+APOA4_BOVIN,Q32PJ2,APOA4_BOVIN,reviewed,Apolipoprotein A-IV (Apo-AIV) (ApoA-IV) (Apolipoprotein A4),APOA4,Bos taurus (Bovine),380
+CLUS_BOVIN,P17697,CLUS_BOVIN,reviewed,Clusterin (Glycoprotein III) (GpIII) [Cleaved into: Clusterin beta chain; Clusterin alpha chain],CLU,Bos taurus (Bovine),439
+CTHL2_BOVIN,P19660,CTHL2_BOVIN,reviewed,Cathelicidin-2 (Bactenecin-5) (Bac5) (PR-42),CATHL2 BAC5,Bos taurus (Bovine),176
+IBP1_BOVIN,P24591,IBP1_BOVIN,reviewed,Insulin-like growth factor-binding protein 1 (IBP-1) (IGF-binding protein 1) (IGFBP-1) (bIGFBP-1),IGFBP1,Bos taurus (Bovine),263
+PGK1_BOVIN,Q3T0P6,PGK1_BOVIN,reviewed,Phosphoglycerate kinase 1 (EC 2.7.2.3),PGK1,Bos taurus (Bovine),417
+PPIA_BOVIN,P62935,PPIA_BOVIN,reviewed,"Peptidyl-prolyl cis-trans isomerase A (PPIase A) (EC 5.2.1.8) (Cyclophilin A) (Cyclosporin A-binding protein) (Rotamase A) [Cleaved into: Peptidyl-prolyl cis-trans isomerase A, N-terminally processed]",PPIA,Bos taurus (Bovine),164
+PROS_BOVIN,P07224,PROS_BOVIN,reviewed,Vitamin K-dependent protein S,PROS1 PROS,Bos taurus (Bovine),675
+STIP1_BOVIN,Q3ZBZ8,STIP1_BOVIN,reviewed,Stress-induced-phosphoprotein 1 (STI1) (Hsc70/Hsp90-organizing protein) (Hop),STIP1,Bos taurus (Bovine),543
+UGDH_BOVIN,P12378,UGDH_BOVIN,reviewed,UDP-glucose 6-dehydrogenase (UDP-Glc dehydrogenase) (UDP-GlcDH) (UDPGDH) (EC 1.1.1.22),UGDH,Bos taurus (Bovine),494
+FA9_BOVIN,P00741,FA9_BOVIN,reviewed,Coagulation factor IX (EC 3.4.21.22) (Christmas factor) [Cleaved into: Coagulation factor IXa light chain; Coagulation factor IXa heavy chain],F9,Bos taurus (Bovine),462
+PPIC_BOVIN,Q08E11,PPIC_BOVIN,reviewed,Peptidyl-prolyl cis-trans isomerase C (PPIase C) (EC 5.2.1.8) (Cyclophilin C) (Rotamase C),PPIC,Bos taurus (Bovine),212
+MT1H_BOVIN,P55942,MT1H_BOVIN,reviewed,"Metallothionein-I, hippocampal (MT-1)",,Bos taurus (Bovine),61
+A1AG_BOVIN,Q3SZR3,A1AG_BOVIN,reviewed,Alpha-1-acid glycoprotein (Orosomucoid) (OMD),ORM1 AGP,Bos taurus (Bovine),202
+ADIPO_BOVIN,Q3Y5Z3,ADIPO_BOVIN,reviewed,"Adiponectin (30 kDa adipocyte complement-related protein) (Adipocyte complement-related 30 kDa protein) (ACRP30) (Adipocyte, C1q and collagen domain-containing protein) (Adipose most abundant gene transcript 1 protein) (apM-1)",ADIPOQ ACRP30 APM1,Bos taurus (Bovine),240
+CONG_BOVIN,P23805,CONG_BOVIN,reviewed,Conglutinin,CGN1,Bos taurus (Bovine),371
+ELN_BOVIN,P04985,ELN_BOVIN,reviewed,Elastin (Tropoelastin),ELN,Bos taurus (Bovine),747
+EZRI_BOVIN,P31976,EZRI_BOVIN,reviewed,Ezrin (Cytovillin) (Villin-2) (p81),EZR VIL2,Bos taurus (Bovine),581
+F16P1_BOVIN,Q3SZB7,F16P1_BOVIN,reviewed,"Fructose-1,6-bisphosphatase 1 (FBPase 1) (EC 3.1.3.11) (D-fructose-1,6-bisphosphate 1-phosphohydrolase 1) (Liver FBPase)",FBP1,Bos taurus (Bovine),338
+GSTA1_BOVIN,Q28035,GSTA1_BOVIN,reviewed,"Glutathione S-transferase A1 (EC 2.5.1.18) (13-hydroperoxyoctadecadienoate peroxidase) (EC 1.11.1.-) (Androst-5-ene-3,17-dione isomerase) (EC 5.3.3.-) (GST class-alpha member 1) (Glutathione S-transferase alpha-1) [Cleaved into: Glutathione S-transferase A1, N-terminally processed]",GSTA1,Bos taurus (Bovine),222
+HP20_BOVIN,Q2KIT0,HP20_BOVIN,reviewed,Protein HP-20 homolog,,Bos taurus (Bovine),191
+HTRA1_BOVIN,F1N152,HTRA1_BOVIN,reviewed,Serine protease HTRA1 (EC 3.4.21.-) (High-temperature requirement A serine peptidase 1) (Serine protease 11),HTRA1 HTRA PRSS11,Bos taurus (Bovine),487
+OLFL3_BOVIN,Q0VCP3,OLFL3_BOVIN,reviewed,Olfactomedin-like protein 3,OLFML3,Bos taurus (Bovine),406
+PLA1A_BOVIN,Q5E9H0,PLA1A_BOVIN,reviewed,Phospholipase A1 member A (EC 3.1.1.-),PLA1A,Bos taurus (Bovine),456
+SBSN_BOVIN,A6QQF6,SBSN_BOVIN,reviewed,Suprabasin,SBSN,Bos taurus (Bovine),557
+APOC3_BOVIN,P19035,APOC3_BOVIN,reviewed,Apolipoprotein C-III (Apo-CIII) (ApoC-III) (Apolipoprotein C3),APOC3,Bos taurus (Bovine),96
+APOC4_BOVIN,Q3SYR5,APOC4_BOVIN,reviewed,Apolipoprotein C-IV (Apo-CIV) (ApoC-IV) (Apolipoprotein C4),APOC4,Bos taurus (Bovine),127
+ARP3_BOVIN,P61157,ARP3_BOVIN,reviewed,Actin-related protein 3 (Actin-2) (Actin-like protein 3),ACTR3 ARP3,Bos taurus (Bovine),418
+HNRPK_BOVIN,Q3T0D0,HNRPK_BOVIN,reviewed,Heterogeneous nuclear ribonucleoprotein K (hnRNP K),HNRNPK HNRPK,Bos taurus (Bovine),464
+IBP5_BOVIN,Q05717,IBP5_BOVIN,reviewed,Insulin-like growth factor-binding protein 5 (IBP-5) (IGF-binding protein 5) (IGFBP-5),IGFBP5,Bos taurus (Bovine),271
+MYL6_BOVIN,P60661,MYL6_BOVIN,reviewed,Myosin light polypeptide 6 (17 kDa myosin light chain) (LC17) (Myosin light chain 3) (MLC-3) (Myosin light chain alkali 3) (Myosin light chain A3),MYL6,Bos taurus (Bovine),151
+PDLI1_BOVIN,Q5E9E1,PDLI1_BOVIN,reviewed,PDZ and LIM domain protein 1 (Elfin),PDLIM1,Bos taurus (Bovine),328
+PEBP1_BOVIN,P13696,PEBP1_BOVIN,reviewed,Phosphatidylethanolamine-binding protein 1 (PEBP-1) (Basic cytosolic 21 kDa protein) (HCNPpp) [Cleaved into: Hippocampal cholinergic neurostimulating peptide (HCNP)],PEBP1 PBP PEBP,Bos taurus (Bovine),187
+RNAS4_BOVIN,P15467,RNAS4_BOVIN,reviewed,Ribonuclease 4 (RNase 4) (EC 3.1.27.-) (Ribonuclease BL4),RNASE4 RNS4,Bos taurus (Bovine),119
+ALDOB_BOVIN,Q3T0S5,ALDOB_BOVIN,reviewed,Fructose-bisphosphate aldolase B (EC 4.1.2.13) (Liver-type aldolase),ALDOB,Bos taurus (Bovine),364
+BLVRB_BOVIN,P52556,BLVRB_BOVIN,reviewed,Flavin reductase (NADPH) (FR) (EC 1.5.1.30) (Biliverdin reductase B) (BVR-B) (EC 1.3.1.24) (Biliverdin-IX beta-reductase) (Green heme-binding protein) (GHBP) (NADPH-dependent diaphorase) (NADPH-flavin reductase) (FLR),BLVRB,Bos taurus (Bovine),206
+GPX3_BOVIN,P37141,GPX3_BOVIN,reviewed,Glutathione peroxidase 3 (GPx-3) (GSHPx-3) (EC 1.11.1.9) (Plasma glutathione peroxidase) (GPx-P) (GSHPx-P),GPX3,Bos taurus (Bovine),226
+KNG2_BOVIN,P01045,KNG2_BOVIN,reviewed,Kininogen-2 (Kininogen II) (Thiol proteinase inhibitor) [Cleaved into: Kininogen-2 heavy chain; Bradykinin (Kallidin I); Lysyl-bradykinin (Kallidin II); Kininogen-2 light chain],KNG2,Bos taurus (Bovine),619
+PCBP1_BOVIN,Q5E9A3,PCBP1_BOVIN,reviewed,Poly(rC)-binding protein 1 (Alpha-CP1),PCBP1,Bos taurus (Bovine),356
+RAN_BOVIN,Q3T054,RAN_BOVIN,reviewed,GTP-binding nuclear protein Ran (GTPase Ran) (Ras-related nuclear protein),RAN,Bos taurus (Bovine),216
+SPON1_BOVIN,Q9GLX9,SPON1_BOVIN,reviewed,Spondin-1 (F-spondin) (Vascular smooth muscle cell growth-promoting factor),SPON1 VSGP,Bos taurus (Bovine),807
+TSP2_BOVIN,Q95116,TSP2_BOVIN,reviewed,Thrombospondin-2 (Corticotropin-induced secreted protein) (CISP),THBS2 TSP-2 TSP2,Bos taurus (Bovine),1170
+CATL1_BOVIN,P25975,CATL1_BOVIN,reviewed,Cathepsin L1 (EC 3.4.22.15) (Cathepsin L) [Cleaved into: Cathepsin L1 heavy chain; Cathepsin L1 light chain],CTSL CTSL1,Bos taurus (Bovine),334
+TIMP2_BOVIN,P16368,TIMP2_BOVIN,reviewed,Metalloproteinase inhibitor 2 (Collagenase inhibitor) (Tissue inhibitor of metalloproteinases 2) (TIMP-2),TIMP2,Bos taurus (Bovine),220
+CBR1_BOVIN,Q3SZD7,CBR1_BOVIN,reviewed,Carbonyl reductase [NADPH] 1 (EC 1.1.1.184) (15-hydroxyprostaglandin dehydrogenase [NADP(+)]) (EC 1.1.1.197) (NADPH-dependent carbonyl reductase 1) (Prostaglandin 9-ketoreductase) (Prostaglandin-E(2) 9-reductase) (EC 1.1.1.189),CBR1,Bos taurus (Bovine),277
+ROA2_BOVIN,Q2HJ60,ROA2_BOVIN,reviewed,Heterogeneous nuclear ribonucleoproteins A2/B1 (hnRNP A2/B1),HNRNPA2B1 HNRPA2B1,Bos taurus (Bovine),341
+DPYL2_BOVIN,O02675,DPYL2_BOVIN,reviewed,Dihydropyrimidinase-related protein 2 (DRP-2) (Neural-specific protein NSP60),DPYSL2,Bos taurus (Bovine),572
+CTHL3_BOVIN,P19661,CTHL3_BOVIN,reviewed,Cathelicidin-3 (Bactenecin-7) (Bac7) (PR-59),CATHL3 BAC7,Bos taurus (Bovine),190
+CLC3A_BOVIN,Q28008,CLC3A_BOVIN,reviewed,C-type lectin domain family 3 member A (C-type lectin superfamily member 1) (Cartilage-derived C-type lectin),CLEC3A CLECSF1,Bos taurus (Bovine),197
+CYBP_BOVIN,Q3T168,CYBP_BOVIN,reviewed,Calcyclin-binding protein (CacyBP),CACYBP,Bos taurus (Bovine),230
+ANG2_BOVIN,P80929,ANG2_BOVIN,reviewed,Angiogenin-2 (EC 3.1.27.-),ANG2,Bos taurus (Bovine),123
+SBDS_BOVIN,Q3SWZ6,SBDS_BOVIN,reviewed,Ribosome maturation protein SBDS (Shwachman-Bodian-Diamond syndrome protein homolog),SBDS,Bos taurus (Bovine),250
+LDHB_BOVIN,Q5E9B1,LDHB_BOVIN,reviewed,L-lactate dehydrogenase B chain (LDH-B) (EC 1.1.1.27),LDHB,Bos taurus (Bovine),334
+SPA37_BOVIN,A2I7N3,SPA37_BOVIN,reviewed,Serpin A3-7,SERPINA3-7,Bos taurus (Bovine),417
+COF2_BOVIN,Q148F1,COF2_BOVIN,reviewed,"Cofilin-2 (Cofilin, muscle isoform)",CFL2,Bos taurus (Bovine),166
+DEST_BOVIN,Q5E9D5,DEST_BOVIN,reviewed,Destrin (Actin-depolymerizing factor) (ADF),DSTN,Bos taurus (Bovine),165
+H12_BOVIN,P02253,H12_BOVIN,reviewed,Histone H1.2 (CTL-1),HIST1H1C,Bos taurus (Bovine),213
+ML12B_BOVIN,A4IF97,ML12B_BOVIN,reviewed,"Myosin regulatory light chain 12B (Myosin regulatory light chain 2-B, smooth muscle isoform) (Myosin regulatory light chain 20 kDa) (MLC20) (Myosin regulatory light chain MRLC2)",MYL12B MRLC2 MYLC2B,Bos taurus (Bovine),171
+PGCA_BOVIN,P13608,PGCA_BOVIN,reviewed,Aggrecan core protein (Cartilage-specific proteoglycan core protein) (CSPCP),ACAN AGC1,Bos taurus (Bovine),2364
+SEPT2_BOVIN,Q2NKY7,SEPT2_BOVIN,reviewed,Septin-2,SEPTIN2 SEPT2,Bos taurus (Bovine),361
+TTHY_BOVIN,O46375,TTHY_BOVIN,reviewed,Transthyretin (Prealbumin),TTR,Bos taurus (Bovine),147
+AMD_BOVIN,P10731,AMD_BOVIN,reviewed,Peptidyl-glycine alpha-amidating monooxygenase (PAM) [Includes: Peptidylglycine alpha-hydroxylating monooxygenase (PHM) (EC 1.14.17.3); Peptidyl-alpha-hydroxyglycine alpha-amidating lyase (EC 4.3.2.5) (Peptidylamidoglycolate lyase) (PAL)],PAM,Bos taurus (Bovine),972
+LIPL_BOVIN,P11151,LIPL_BOVIN,reviewed,Lipoprotein lipase (LPL) (EC 3.1.1.34),LPL,Bos taurus (Bovine),478
+PABP1_BOVIN,P61286,PABP1_BOVIN,reviewed,Polyadenylate-binding protein 1 (PABP-1) (Poly(A)-binding protein 1),PABPC1 PABP1,Bos taurus (Bovine),636
+PRDX6_BOVIN,O77834,PRDX6_BOVIN,reviewed,Peroxiredoxin-6 (EC 1.11.1.15) (1-Cys peroxiredoxin) (1-Cys PRX) (Acidic calcium-independent phospholipase A2) (aiPLA2) (EC 3.1.1.4) (Antioxidant protein 2) (Ciliary body glutathione peroxidase) (Non-selenium glutathione peroxidase) (NSGPx) (PHGPx),PRDX6 AOP2 GPX PHGPX,Bos taurus (Bovine),224
+DDBX_BOVIN,P52898,DDBX_BOVIN,reviewed,Dihydrodiol dehydrogenase 3 (EC 1.-.-.-) (Prostaglandin F synthase),,Bos taurus (Bovine),323
+CO2_BOVIN,Q3SYW2,CO2_BOVIN,reviewed,Complement C2 (EC 3.4.21.43) (C3/C5 convertase) [Cleaved into: Complement C2b fragment; Complement C2a fragment],C2,Bos taurus (Bovine),750
+SEPR_BOVIN,A5D7B7,SEPR_BOVIN,reviewed,"Prolyl endopeptidase FAP (EC 3.4.21.26) (Dipeptidyl peptidase FAP) (EC 3.4.14.5) (Fibroblast activation protein alpha) (FAPalpha) (Gelatine degradation protease FAP) (EC 3.4.21.-) (Integral membrane serine protease) (Post-proline cleaving enzyme) (Serine integral membrane protease) (SIMP) (Surface-expressed protease) (Seprase) (Z-Pro-prolinal insensitive peptidase) (ZIP) [Cleaved into: Antiplasmin-cleaving enzyme FAP, soluble form (APCE) (EC 3.4.14.5) (EC 3.4.21.-) (EC 3.4.21.26)]",FAP,Bos taurus (Bovine),760
+APEX1_BOVIN,P23196,APEX1_BOVIN,reviewed,"DNA-(apurinic or apyrimidinic site) lyase (EC 3.1.-.-) (EC 4.2.99.18) (APEX nuclease) (APEN) (Apurinic-apyrimidinic endonuclease 1) (AP endonuclease 1) (REF-1) (Redox factor-1) [Cleaved into: DNA-(apurinic or apyrimidinic site) lyase, mitochondrial]",APEX1 APE APEX BAP1 REF1,Bos taurus (Bovine),318
+MIA_BOVIN,Q28038,MIA_BOVIN,reviewed,Melanoma-derived growth regulatory protein (Cartilage-derived retinoic acid-sensitive protein) (CD-RAP) (Melanoma inhibitory activity protein),MIA CDRAP,Bos taurus (Bovine),130
+CNN2_BOVIN,Q3SYU6,CNN2_BOVIN,reviewed,"Calponin-2 (Calponin H2, smooth muscle) (Neutral calponin)",CNN2,Bos taurus (Bovine),309
+CO4A1_BOVIN,Q7SIB2,CO4A1_BOVIN,reviewed,Collagen alpha-1(IV) chain [Cleaved into: Arresten],COL4A1,Bos taurus (Bovine),1669
+CTHL1_BOVIN,P22226,CTHL1_BOVIN,reviewed,Cathelicidin-1 (Bactenecin-1) (Bac1) (Cyclic dodecapeptide),CATHL1 BAC1,Bos taurus (Bovine),155
+DSC1_BOVIN,Q01107,DSC1_BOVIN,reviewed,Desmocollin-1 (Desmosomal glycoprotein 2/3) (DG2/DG3),DSC1,Bos taurus (Bovine),893
+K2C79_BOVIN,Q148H7,K2C79_BOVIN,reviewed,"Keratin, type II cytoskeletal 79 (Cytokeratin-79) (CK-79) (Keratin-79) (K79) (Type-II keratin Kb38)",KRT79,Bos taurus (Bovine),535
+TMA7_BOVIN,A1A4Q4,TMA7_BOVIN,reviewed,Translation machinery-associated protein 7 (Coiled-coil domain-containing protein 72),TMA7 CCDC72,Bos taurus (Bovine),64
+HPT_BOVIN,Q2TBU0,HPT_BOVIN,reviewed,Haptoglobin [Cleaved into: Haptoglobin alpha chain; Haptoglobin beta chain],HP,Bos taurus (Bovine),401
+PDIA3_BOVIN,P38657,PDIA3_BOVIN,reviewed,Protein disulfide-isomerase A3 (EC 5.3.4.1) (58 kDa glucose-regulated protein) (58 kDa microsomal protein) (p58) (Disulfide isomerase ER-60) (Endoplasmic reticulum resident protein 57) (ER protein 57) (ERp57) (Endoplasmic reticulum resident protein 60) (ER protein 60) (ERp60),PDIA3 GRP58,Bos taurus (Bovine),505
+HSP7C_BOVIN,P19120,HSP7C_BOVIN,reviewed,Heat shock cognate 71 kDa protein (Heat shock 70 kDa protein 8),HSPA8 HSC70,Bos taurus (Bovine),650
+DYN1_BOVIN,Q08DF4,DYN1_BOVIN,reviewed,Dynamin-1 (EC 3.6.5.5),DNM1,Bos taurus (Bovine),856
+GLYC_BOVIN,Q5E9P9,GLYC_BOVIN,reviewed,"Serine hydroxymethyltransferase, cytosolic (SHMT) (EC 2.1.2.1) (Glycine hydroxymethyltransferase) (Serine methylase)",SHMT1,Bos taurus (Bovine),484
+CDC42_BOVIN,Q2KJ93,CDC42_BOVIN,reviewed,Cell division control protein 42 homolog (EC 3.6.5.2),CDC42,Bos taurus (Bovine),191
+SEPP1_BOVIN,P49907,SEPP1_BOVIN,reviewed,Selenoprotein P (SeP) (Selenoprotein P-like protein),SELENOP,Bos taurus (Bovine),402
+CBPN_BOVIN,Q2KJ83,CBPN_BOVIN,reviewed,Carboxypeptidase N catalytic chain (CPN) (EC 3.4.17.3) (Carboxypeptidase N polypeptide 1) (Carboxypeptidase N small subunit),CPN1,Bos taurus (Bovine),462
+CD9_BOVIN,P30932,CD9_BOVIN,reviewed,CD9 antigen (CD antigen CD9),CD9,Bos taurus (Bovine),226
+GALK1_BOVIN,A6H768,GALK1_BOVIN,reviewed,Galactokinase (EC 2.7.1.6) (Galactose kinase),GALK1,Bos taurus (Bovine),392
+TIE1_BOVIN,Q06805,TIE1_BOVIN,reviewed,Tyrosine-protein kinase receptor Tie-1 (EC 2.7.10.1),TIE1 TIE TIE-1,Bos taurus (Bovine),1136
+EHD1_BOVIN,Q5E9R3,EHD1_BOVIN,reviewed,EH domain-containing protein 1,EHD1,Bos taurus (Bovine),534
+IF5A1_BOVIN,Q6EWQ7,IF5A1_BOVIN,reviewed,Eukaryotic translation initiation factor 5A-1 (eIF-5A-1) (eIF-5A1) (Eukaryotic initiation factor 5A isoform 1) (eIF-5A) (eIF-4D),EIF5A,Bos taurus (Bovine),154
+GPDA_BOVIN,Q5EA88,GPDA_BOVIN,reviewed,"Glycerol-3-phosphate dehydrogenase [NAD(+)], cytoplasmic (GPD-C) (GPDH-C) (EC 1.1.1.8)",GPD1,Bos taurus (Bovine),349
+PUR9_BOVIN,Q0VCK0,PUR9_BOVIN,reviewed,Bifunctional purine biosynthesis protein PURH [Includes: Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3) (5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase) (AICAR transformylase); IMP cyclohydrolase (EC 3.5.4.10) (ATIC) (IMP synthase) (Inosinicase)],ATIC PURH,Bos taurus (Bovine),592
+FA10_BOVIN,P00743,FA10_BOVIN,reviewed,Coagulation factor X (EC 3.4.21.6) (Stuart factor) [Cleaved into: Factor X light chain; Factor X heavy chain; Activated factor Xa heavy chain],F10,Bos taurus (Bovine),492
+SEP11_BOVIN,A2VE99,SEP11_BOVIN,reviewed,Septin-11,SEPTIN11 SEPT11,Bos taurus (Bovine),425
+SAA_BOVIN,P35541,SAA_BOVIN,reviewed,Serum amyloid A protein (SAA) [Cleaved into: Amyloid protein A (Amyloid fibril protein AA)],SAA1 SAA,Bos taurus (Bovine),130
+H2A1_BOVIN,P0C0S9,H2A1_BOVIN,reviewed,Histone H2A type 1 (H2A.1b),,Bos taurus (Bovine),130
+SNX3_BOVIN,Q1RMH8,SNX3_BOVIN,reviewed,Sorting nexin-3,SNX3,Bos taurus (Bovine),162
+TCPZ_BOVIN,Q3MHL7,TCPZ_BOVIN,reviewed,T-complex protein 1 subunit zeta (TCP-1-zeta) (CCT-zeta) (CCT-zeta-1),CCT6A,Bos taurus (Bovine),531
+CADH1_BOVIN,Q6R8F2,CADH1_BOVIN,reviewed,Cadherin-1 (Epithelial cadherin) (E-cadherin) (CD antigen CD324) [Cleaved into: E-Cad/CTF1; E-Cad/CTF2; E-Cad/CTF3],CDH1,Bos taurus (Bovine),882
+CO5_BOVIN,P12082,CO5_BOVIN,reviewed,Complement C5a anaphylatoxin,C5,Bos taurus (Bovine),74
+CRIP2_BOVIN,Q0VFX8,CRIP2_BOVIN,reviewed,Cysteine-rich protein 2 (CRP-2),CRIP2,Bos taurus (Bovine),208
+PROF1_BOVIN,P02584,PROF1_BOVIN,reviewed,Profilin-1 (Profilin I),PFN1,Bos taurus (Bovine),140
+PTBP1_BOVIN,Q8WN55,PTBP1_BOVIN,reviewed,Polypyrimidine tract-binding protein 1 (PTB),PTBP1,Bos taurus (Bovine),531
+STMN1_BOVIN,Q3T0C7,STMN1_BOVIN,reviewed,Stathmin,STMN1,Bos taurus (Bovine),149
+TES_BOVIN,Q2YDE9,TES_BOVIN,reviewed,Testin,TES,Bos taurus (Bovine),421
+PUR8_BOVIN,A3KN12,PUR8_BOVIN,reviewed,Adenylosuccinate lyase (ADSL) (ASL) (EC 4.3.2.2) (Adenylosuccinase) (ASase),ADSL,Bos taurus (Bovine),490
+SFTPD_BOVIN,P35246,SFTPD_BOVIN,reviewed,Pulmonary surfactant-associated protein D (PSP-D) (SP-D) (Lung surfactant protein D),SFTPD SFTP4,Bos taurus (Bovine),369
+DSG1_BOVIN,Q03763,DSG1_BOVIN,reviewed,Desmoglein-1 (Desmosomal glycoprotein 1) (DG1) (DGI) (Pemphigus foliaceus antigen),DSG1,Bos taurus (Bovine),1043
+CNBP_BOVIN,Q3T0Q6,CNBP_BOVIN,reviewed,Cellular nucleic acid-binding protein (CNBP) (Zinc finger protein 9),CNBP ZNF9,Bos taurus (Bovine),170
+TBB2B_BOVIN,Q6B856,TBB2B_BOVIN,reviewed,Tubulin beta-2B chain,TUBB2B,Bos taurus (Bovine),445
+CXCL6_BOVIN,P80221,CXCL6_BOVIN,reviewed,C-X-C motif chemokine 6 (Granulocyte chemotactic protein 2) (GCP-2) (Small-inducible cytokine B6),CXCL6 GCP2 SCYB6,Bos taurus (Bovine),112
+HMGB1_BOVIN,P10103,HMGB1_BOVIN,reviewed,High mobility group protein B1 (High mobility group protein 1) (HMG-1),HMGB1 HMG1,Bos taurus (Bovine),215
+EXT2_BOVIN,O77783,EXT2_BOVIN,reviewed,Exostosin-2 (EC 2.4.1.224) (EC 2.4.1.225) (Glucuronosyl-N-acetylglucosaminyl-proteoglycan/N-acetylglucosaminyl-proteoglycan 4-alpha-N-acetylglucosaminyltransferase) (HS-polymerase) (HS-POL) (Multiple exostoses protein 2 homolog),EXT2,Bos taurus (Bovine),718
+CAN2_BOVIN,Q27971,CAN2_BOVIN,reviewed,Calpain-2 catalytic subunit (EC 3.4.22.53) (Calcium-activated neutral proteinase 2) (CANP 2) (Calpain M-type) (Calpain-2 large subunit) (Millimolar-calpain) (M-calpain),CAPN2,Bos taurus (Bovine),700
+ERF1_BOVIN,Q0VCX5,ERF1_BOVIN,reviewed,Eukaryotic peptide chain release factor subunit 1 (Eukaryotic release factor 1) (eRF1),ETF1,Bos taurus (Bovine),437
+MBL2_BOVIN,O02659,MBL2_BOVIN,reviewed,Mannose-binding protein C (MBP-C) (Mannan-binding protein),MBL,Bos taurus (Bovine),249
+RETN_BOVIN,Q762I5,RETN_BOVIN,reviewed,Resistin,RETN RSTN,Bos taurus (Bovine),109
+RSU1_BOVIN,Q5E9C0,RSU1_BOVIN,reviewed,Ras suppressor protein 1 (Rsu-1),RSU1,Bos taurus (Bovine),277
+THBG_BOVIN,Q9TT36,THBG_BOVIN,reviewed,Thyroxine-binding globulin (Serpin A7) (T4-binding globulin),SERPINA7 TBG,Bos taurus (Bovine),411
+RAC2_BOVIN,Q9TU25,RAC2_BOVIN,reviewed,Ras-related C3 botulinum toxin substrate 2 (p21-Rac2),RAC2,Bos taurus (Bovine),192
+DCXR_BOVIN,Q1JP75,DCXR_BOVIN,reviewed,L-xylulose reductase (XR) (EC 1.1.1.10) (Dicarbonyl/L-xylulose reductase),DCXR,Bos taurus (Bovine),244
+FSTL3_BOVIN,Q1LZB9,FSTL3_BOVIN,reviewed,Follistatin-related protein 3 (Follistatin-like protein 3),FSTL3,Bos taurus (Bovine),261
+APOC2_BOVIN,P19034,APOC2_BOVIN,reviewed,Apolipoprotein C-II (Apo-CII) (ApoC-II) (Apolipoprotein C2) [Cleaved into: Proapolipoprotein C-II (ProapoC-II)],APOC2,Bos taurus (Bovine),101
+ST1E1_BOVIN,P19217,ST1E1_BOVIN,reviewed,"Estrogen sulfotransferase (EC 2.8.2.4) (Sulfotransferase 1E1) (ST1E1) (Sulfotransferase, estrogen-preferring)",SULT1E1 OST STE,Bos taurus (Bovine),295
+TWF1_BOVIN,Q56JV6,TWF1_BOVIN,reviewed,Twinfilin-1,TWF1,Bos taurus (Bovine),350
+DIA1R_BOVIN,Q58CX7,DIK2B_BOVIN,reviewed,Divergent protein kinase domain 2B (Deleted in autism-related protein 1 homolog),DIPK2B,Bos taurus (Bovine),433
+LYSCN_BOVIN,P80189,LYSCN_BOVIN,reviewed,"Lysozyme C, non-stomach isozyme (EC 3.2.1.17) (1,4-beta-N-acetylmuramidase C)",LYS LZ,Bos taurus (Bovine),148
+ICAL_BOVIN,P20811,ICAL_BOVIN,reviewed,Calpastatin (Calpain inhibitor),CAST,Bos taurus (Bovine),705
+CO3A1_BOVIN,P04258,CO3A1_BOVIN,reviewed,Collagen alpha-1(III) chain,COL3A1,Bos taurus (Bovine),1049
+CO4A2_BOVIN,Q7SIB3,CO4A2_BOVIN,reviewed,Collagen alpha-2(IV) chain (Fragment),COL4A2,Bos taurus (Bovine),227
+KAPCA_BOVIN,P00517,KAPCA_BOVIN,reviewed,cAMP-dependent protein kinase catalytic subunit alpha (PKA C-alpha) (EC 2.7.11.11),PRKACA,Bos taurus (Bovine),351
+DNJC3_BOVIN,Q27968,DNJC3_BOVIN,reviewed,"DnaJ homolog subfamily C member 3 (Interferon-induced, double-stranded RNA-activated protein kinase inhibitor) (Protein kinase inhibitor of 58 kDa) (Protein kinase inhibitor p58)",DNAJC3 P58IPK,Bos taurus (Bovine),504
+1433Z_BOVIN,P63103,1433Z_BOVIN,reviewed,14-3-3 protein zeta/delta (Factor activating exoenzyme S) (FAS) (Protein kinase C inhibitor protein 1) (KCIP-1),YWHAZ,Bos taurus (Bovine),245
+K1C17_BOVIN,A1L595,K1C17_BOVIN,reviewed,"Keratin, type I cytoskeletal 17 (Cytokeratin-17) (CK-17) (Keratin-17) (K17)",KRT17,Bos taurus (Bovine),441
+BASP1_BOVIN,P80724,BASP1_BOVIN,reviewed,Brain acid soluble protein 1 (22 kDa neuronal tissue-enriched acidic protein) (Neuronal axonal membrane protein NAP-22),BASP1 NAP22,Bos taurus (Bovine),227
