@@ -69,7 +69,7 @@ class data_base(object):
             in the test set
         """
     _ENRICHMENT_SPLIT_VALUE = 1 #enrichment threshold to classify as bound or unbound
-    categorical_data = ['Enzyme Commission Number', 'Particle Size', 'Particle Charge', 'Solvent Cysteine Concentration', 'Solvent NaCl Concentration']
+    categorical_data = ['Enzyme Commission Number', 'Particle Size', 'Particle Charge', 'Solvent Mg Concentration', 'Solvent NaCl Concentration']
     columns_to_drop = ['Protein Length', 'Sequence', 'Enrichment', 'Accesion Number']
 
     def __init__(self):
@@ -485,7 +485,7 @@ def to_excel(classification_information):
     with open('prediction_probability.csv', 'w') as file:
         file.write('Protein Accesion Number, Particle Type, Solvent Conditions, True Bound Value, Predicted Bound Value, Predicted Probability of Being Bound, Properly Classified\n')
 
-        for pred, true_val, protein, particle_s, particle_c, cys, salt8, salt3, in zip(classification_information['all_predict_proba'],
+        for pred, true_val, protein, particle_s, particle_c, mg, salt8, salt3, in zip(classification_information['all_predict_proba'],
                                                                                        classification_information['all_true_results'],
                                                                                        classification_information['all_accesion_numbers'],
                                                                                        classification_information['all_particle_information'][0],
@@ -517,8 +517,8 @@ def to_excel(classification_information):
                 particle = '(-) 10 nm AgNP'
             if (particle_size == '100nm' and particle_charge == 'negative'):
                 particle = '(-) 100 nm AgNP'
-            if (cys == 1):
-                solvent = '10 mM NaPi pH 7.4 + 0.1 mM cys'
+            if (mg == 1):
+                solvent = '10 mM NaPi pH 7.4 + 0.1 mM mg'
             if (salt8 == 1):
                 solvent = '10 mM NaPi pH 7.4 + 0.8 mM NaCl'
             if (salt3 == 1):
@@ -550,7 +550,7 @@ def hold_in_memory(classification_information, metrics, iterations, test_size):
     classification_information['all_accesion_numbers'][i*TEST_SIZE:(i*TEST_SIZE)+TEST_SIZE] = metrics[2]
     classification_information['all_particle_information'][PARTICLE_CHARGE][i*TEST_SIZE:(i*TEST_SIZE)+TEST_SIZE] = metrics[3]['Particle Charge_1']
     classification_information['all_particle_information'][PARTICLE_SIZE][i*TEST_SIZE:(i*TEST_SIZE)+TEST_SIZE] = metrics[3]['Particle Size_10']
-    classification_information['all_solvent_information'][SOLVENT_CYS][i*TEST_SIZE:(i*TEST_SIZE)+TEST_SIZE] = metrics[3]['Solvent Cysteine Concentration_0.1']
+    classification_information['all_solvent_information'][SOLVENT_CYS][i*TEST_SIZE:(i*TEST_SIZE)+TEST_SIZE] = metrics[3]['Solvent Mg Concentration_0.1']
     classification_information['all_solvent_information'][SOLVENT_SALT_08][i*TEST_SIZE:(i*TEST_SIZE)+TEST_SIZE] = metrics[3]['Solvent NaCl Concentration_0.8']
     classification_information['all_solvent_information'][SOLVENT_SALT_3][i*TEST_SIZE:(i*TEST_SIZE)+TEST_SIZE] = metrics[3]['Solvent NaCl Concentration_3.0']
 

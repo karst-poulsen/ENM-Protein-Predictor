@@ -88,11 +88,11 @@ if __name__ == '__main__':
 
     #Initialize our database
     db = data_utils.data_base()
-    db.raw_data = "Input_Files/database2.csv"
+    db.raw_data = "Input_Files/database_test.csv"
     db.clean_raw_data()
 
     ###To use our data to predict yours, set your data below and uncomment:
-    #db.predict = "your_csv_path" #<-----Set your own data here
+    db.predict = "Input_Files/database_test_input.csv" #<-----Set your own data here
 
     #Set constants for array indexs
     if (db.Y_test is not None):
