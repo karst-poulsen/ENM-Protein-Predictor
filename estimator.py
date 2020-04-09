@@ -92,7 +92,7 @@ if __name__ == '__main__':
     db.clean_raw_data()
 
     ###To use our data to predict yours, set your data below and uncomment:
-    db.predict = "Input_Files/database_test_input.csv" #<-----Set your own data here
+    #db.predict = "Input_Files/database_test_input.csv" #<-----Set your own data here
 
     #Set constants for array indexs
     if (db.Y_test is not None):
