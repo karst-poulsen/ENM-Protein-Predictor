@@ -15,14 +15,14 @@ AromaticCount={}
 PercentAromatic={}
 for row in Seq:
     for aa in AromaticAA:
-        AromaticCount=Seq.count(aa)
+        AromaticCount=Seq[row].count(aa)
         print(AromaticCount)
     for aa in PositiveAA:
-        PostiveCount=Seq.count(aa)
+        PostiveCount=Seq[row].count(aa)
     for aa in NegativeAA:
-        NegativeCount=Seq.count(aa)
+        NegativeCount=Seq[row].count(aa)
     for aa in HydrophobicAA:
-        HydrophobicCount=Seq.count(aa)
+        HydrophobicCount=Seq[row].count(aa)
 
     print(AromaticCount)
     #print(positiveCount)
