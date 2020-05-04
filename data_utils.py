@@ -554,6 +554,6 @@ def hold_in_memory(classification_information, metrics, iterations, test_size):
     classification_information['all_solvent_information'][SOLVENT_SALT_08][i*TEST_SIZE:(i*TEST_SIZE)+TEST_SIZE] = metrics[3]['Solvent NaCl Concentration_0.8']
     classification_information['all_solvent_information'][SOLVENT_SALT_3][i*TEST_SIZE:(i*TEST_SIZE)+TEST_SIZE] = metrics[3]['Solvent NaCl Concentration_3.0']
 
-if __name__ == "__main__":
-    db = data_base()
-    db.clean_data()
+#if __name__ == "__main__":
+    #db = data_base()
+    #db.clean_data()

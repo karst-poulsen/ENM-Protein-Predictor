@@ -71,6 +71,9 @@ def pipeline(db, test_percentage=0.1, optimize=False, RFECV=False):
 
     est.fit(db.X_train, db.Y_train)
     probability_prediction = est.predict_proba(db.X_test)[:,1]
+    Label_prediction = est.predict(db.X_test)
+    for item in Label_prediction:
+        print(item)
 
     #validator.y_randomization_test(est, db) #run y_randomization_test
     val = validation_utils.validation_metrics(db.Y_test, probability_prediction)

@@ -32,7 +32,7 @@ for run in data:
             average_metrics[key] = average_metrics[key] + value
             std_metrics[key].append(value)
         else:
-            average_metrics[key] = value
+            average_metrics[key] = value 
             std_metrics[key] = [value]
     #Grab feature importances
     for key, value in data[run]['importances'].items():
