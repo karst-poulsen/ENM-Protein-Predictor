@@ -13,6 +13,18 @@
       "project": "estimator.py",
       "projectTarget": "",
       "name": "estimator.py"
+    },
+    {
+      "type": "python",
+      "interpreter": "(default)",
+      "interpreterArguments": "",
+      "scriptArguments": "",
+      "env": {},
+      "nativeDebug": false,
+      "webBrowserUrl": "",
+      "project": "estimator.py",
+      "projectTarget": "",
+      "name": "estimator.py(1)"
     }
   ]
 }

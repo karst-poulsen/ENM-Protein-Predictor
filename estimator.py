@@ -34,7 +34,7 @@ class MyEncoder(json.JSONEncoder):
         else:
             return super(MyEncoder, self).default(obj)
 
-def pipeline(db, test_percentage=0.1, optimize=False, RFECV=False):
+def pipeline(db, test_percentage=0.2, optimize=False, RFECV=False):
     """
     Runs the pipeline. Trains and evaluates the estimator, outputs metrics and
     information about the model performance.
@@ -101,9 +101,9 @@ if __name__ == '__main__':
     if (db.Y_test is not None):
         #db.Y_test is set if user wants to predict their own data
         test_size = db.Y_test.shape[0] #If user has their own data
-    else:
+    #else:
         #If not we split our own database for training and testing
-        test_size = 302 #10% of training data is used for testing 10% of 3012=302
+        #test_size = 302 #10% of training data is used for testing 10% of 3012=302
     TOTAL_TESTED_PROTEINS = test_size*iterations
     SCORES = 0
     IMPORTANCES = 1
