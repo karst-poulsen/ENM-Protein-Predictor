@@ -1,303 +1,303 @@
 Protein Accesion Number, Particle Type, Solvent Conditions, True Bound Value, Predicted Bound Value, Predicted Probability of Being Bound, Properly Classified
-b'P04449', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.97, yes
-b'P04806', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.9, yes
-b'P28240', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.5, yes
-b'Q12178', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.88, yes
-b'Q05775', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.59, yes
-b'P22147', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.65, yes
-b'P28777', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.92, yes
-b'P32324', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.9, yes
-b'P37291', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.8, yes
-b'P38879', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.3, yes
-b'P25567', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.47, yes
-b'P36139', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, yes, 0.55, no
-b'P00358', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.98, yes
-b'P40043', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.84, yes
-b'P0CX45', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.98, yes
-b'P06367', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.93, yes
-b'P53330', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, no, 0.38, no
-b'P15705', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.53, no
-b'P19097', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.78, yes
-b'Q03048', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.77, yes
+b'P05745', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.99, yes
+b'P15705', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.48, yes
+b'P39526', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.39, yes
+b'P40159', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, no, 0.49, no
+b'P05317', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.17, no
+b'P39935', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.26, no
+b'P23301', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.77, yes
 b'P40019', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.03, yes
-b'P16965', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.78, yes
-b'O14467', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.94, yes
-b'P23201', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.66, yes
-b'P15274', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.48, yes
-b'O74700', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.77, yes
-b'P32527', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.66, no
-b'Q06449', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.72, yes
-b'P53691', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.58, no
-b'P35719', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.22, yes
-b'P16140', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.51, yes
-b'P22147', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.63, yes
-b'P54115', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.89, yes
-b'P39926', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.31, yes
-b'P23639', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.39, no
-b'P38787', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.7, no
-b'P01097', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.83, yes
-b'P33322', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.68, yes
-b'P32471', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.11, yes
-b'Q02784', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.19, yes
-b'Q3E841', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.15, yes
-b'P12945', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.59, no
-b'P14126', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.87, yes
-b'Q01560', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.95, yes
-b'P38968', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.31, yes
-b'P32628', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.33, yes
-b'Q07716', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, yes, 0.6, no
-b'Q12513', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.07, yes
-b'P41056', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.98, yes
-b'P33417', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, no, 0.43, no
-b'P22803', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.77, yes
-b'P32481', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, yes, 0.77, no
-b'P43619', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.85, yes
-b'Q06177', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.79, yes
-b'P02994', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.96, yes
-b'P43594', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.64, yes
-b'P17891', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.11, yes
-b'P39940', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.83, yes
-b'P0CX43', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.97, yes
-b'P00950', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.56, yes
-b'P05759', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.16, yes
-b'P34216', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.08, yes
-b'Q03674', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.13, yes
-b'Q12074', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.71, no
-b'P16861', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.9, yes
-b'P02407', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.99, yes
-b'Q04344', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.44, no
-b'Q12690', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.99, yes
-b'P32340', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, yes, 0.9, no
-b'P53330', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.33, no
-b'P37291', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.68, yes
-b'P08524', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.67, no
-b'Q02486', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.95, yes
-b'Q08245', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.08, yes
-b'P32905', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, no, 0.44, no
-b'Q08773', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.51, no
-b'P36010', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.68, no
-b'P00427', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, no, 0.18, no
-b'P33331', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.09, yes
-b'P32873', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.51, yes
-b'P02293', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.84, yes
-b'P06105', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.77, yes
-b'P38427', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.47, no
-b'P09232', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.74, yes
-b'P47006', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.86, yes
-b'P46992', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.69, yes
-b'P53301', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.29, yes
-b'P39994', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.58, yes
-b'P07170', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.89, yes
-b'P10081', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.38, no
-b'Q99321', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.66, no
-b'P53120', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.85, yes
-b'P38616', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.08, yes
-b'P48164', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.92, yes
-b'P39994', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.38, yes
-b'Q6Q547', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.71, yes
-b'P05739', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.97, yes
-b'Q06449', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.65, no
-b'P87262', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.94, yes
-b'P46672', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.73, yes
-b'P40075', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.2, yes
-b'Q08422', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.7, no
-b'P38011', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.37, yes
-b'Q04947', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.87, yes
-b'Q12443', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, yes, 0.7, no
-b'P02407', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.99, yes
-b'P53912', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.93, yes
-b'P45978', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.69, yes
-b'Q00955', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.76, yes
-b'Q12349', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.13, yes
-b'P43616', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.42, yes
-b'O14455', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.99, yes
-b'Q02204', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, yes, 0.52, no
-b'P15873', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.43, no
-b'P17709', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.95, yes
-b'P49166', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.55, yes
-b'P22146', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.25, yes
-b'P38011', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.57, yes
-b'Q99337', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.88, yes
-b'P38996', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, no, 0.47, no
-b'P38934', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.42, no
-b'P08067', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.93, yes
-b'P07284', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.85, yes
-b'P11412', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.64, yes
-b'P32449', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.97, yes
-b'P53852', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.44, yes
-b'P17505', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.89, yes
-b'P33417', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.46, yes
-b'P38711', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.68, yes
-b'P36049', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.62, yes
-b'P40357', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, no, 0.34, no
-b'P38145', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.32, yes
-b'P35691', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.49, yes
-b'P47116', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, yes, 0.71, no
-b'P40513', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.21, yes
-b'P11633', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.12, yes
-b'P00360', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.85, yes
-b'P00044', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.96, yes
-b'Q12743', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.57, yes
-b'P14540', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.89, yes
-b'Q06177', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.82, yes
-b'P06106', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.4, yes
-b'P31539', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.47, yes
-b'Q08004', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.7, yes
-b'Q08977', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.86, yes
-b'P15454', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.45, no
-b'P02829', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.59, yes
-b'P15703', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, no, 0.37, no
-b'Q02642', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.18, yes
-b'Q12497', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.19, yes
-b'P17536', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.02, yes
-b'P38853', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, yes, 0.53, no
-b'Q06177', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.85, yes
-b'P33399', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, no, 0.47, no
-b'P15019', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.91, yes
-b'P40075', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.24, yes
-b'P48589', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.4, no
-b'P32911', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.81, yes
-b'P32905', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, no, 0.29, no
-b'P39954', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.96, yes
-b'P00899', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.75, yes
-b'Q08412', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.46, no
-b'Q02875', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.59, no
-b'P40357', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, no, 0.24, no
-b'P05737', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.79, yes
-b'P32590', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, no, 0.45, no
-b'P02829', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.35, no
-b'P05739', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.99, yes
-b'Q12335', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.89, yes
-b'P40357', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, no, 0.34, no
-b'P26570', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.56, no
-b'P43587', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, yes, 0.59, no
-b'P53141', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.07, yes
-b'P39938', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.99, yes
-b'Q08492', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.27, yes
-b'P05740', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.98, yes
-b'P31373', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.78, yes
-b'P25619', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.39, yes
-b'Q12118', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.15, yes
-b'P00359', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.76, yes
-b'P39567', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.92, yes
-b'P04840', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.38, yes
-b'O94742', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.09, yes
-b'P0CX25', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.86, yes
-b'P08004', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.48, yes
-b'Q03104', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.4, yes
-b'Q12159', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.97, yes
-b'Q12349', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.09, yes
-b'Q07418', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.06, yes
-b'P0CH08', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.12, yes
-b'P14907', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.45, yes
-b'P48836', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.3, yes
-b'P32527', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.58, yes
-b'P07257', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, yes, 0.71, no
-b'P40563', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.68, yes
-b'Q12743', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.53, yes
-b'P38891', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.89, no
+b'P38113', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.89, yes
+b'P15624', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.55, no
+b'Q08971', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.17, no
+b'P40561', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.75, no
+b'P07262', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, no, 0.36, no
+b'P51401', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.96, yes
+b'P32454', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.83, yes
+b'P16649', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.62, yes
+b'P00950', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.6, yes
+b'P0C0V8', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.06, yes
+b'P05373', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.6, no
+b'P0CX29', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.94, yes
+b'P08678', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.66, yes
+b'P17649', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.65, yes
+b'P40040', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.64, yes
+b'P00045', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.97, yes
+b'P25372', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.62, yes
+b'P22217', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.15, yes
+b'Q12044', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.69, yes
+b'Q08732', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, yes, 0.68, no
+b'P26263', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.53, yes
+b'P38845', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.4, yes
+b'P32495', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.93, yes
+b'P25349', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.94, yes
+b'P32381', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.73, yes
+b'P38720', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.69, yes
+b'P38293', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.6, yes
+b'P48510', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, no, 0.14, no
+b'P23293', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.77, yes
+b'P02400', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.01, yes
+b'P0CX84', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.99, yes
+b'P38934', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.47, yes
+b'P22943', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.03, yes
+b'O14467', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.96, yes
+b'P32445', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.36, yes
+b'P22434', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.93, yes
+b'P10592', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.29, yes
+b'P31383', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.21, yes
+b'P32614', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.86, no
+b'P10592', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.26, yes
+b'P23201', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.36, no
+b'P38910', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.34, yes
+b'P07284', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.66, yes
+b'P02994', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.95, yes
+b'Q06116', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.64, yes
+b'P05745', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.95, yes
+b'P53981', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.66, yes
+b'P21954', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.68, no
+b'P00360', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.95, yes
+b'P0CX39', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.61, yes
+b'P11632', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.1, yes
+b'P0C2H8', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.95, yes
+b'P32527', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, no, 0.44, no
+b'P39730', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.72, yes
+b'P32582', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.92, yes
+b'P53281', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.17, yes
+b'P02293', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.76, yes
+b'P47068', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.22, yes
+b'P15992', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.45, yes
+b'P0C2H8', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.98, yes
+b'P22202', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.47, yes
+b'Q03921', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.75, yes
 b'P38013', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.52, yes
-b'P40069', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.43, yes
-b'P32478', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.08, yes
-b'Q03028', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.77, yes
-b'P04911', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.65, yes
-b'Q04067', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.8, yes
-b'P26637', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.6, yes
-b'P14922', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.28, yes
-b'P38697', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.95, yes
-b'P27692', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.42, yes
-b'P31373', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.83, yes
-b'Q05979', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.31, no
-b'P02994', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.93, yes
-b'P02294', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.86, yes
-b'P03965', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.68, yes
-b'P32835', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.48, no
-b'Q01662', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.85, yes
-b'P07257', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, yes, 0.66, no
-b'P40364', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, yes, 0.52, no
-b'P00931', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.8, yes
-b'Q9P305', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.93, yes
-b'P36024', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, no, 0.47, no
-b'P38911', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.89, yes
-b'P38249', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.79, yes
-b'Q00416', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, no, 0.47, no
-b'P13188', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, no, 0.44, no
-b'Q08412', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, yes, 0.63, no
-b'Q04947', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.81, no
-b'Q08641', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.15, yes
-b'P13298', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.7, no
-b'Q04632', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.29, yes
-b'P05318', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.01, yes
-b'P39004', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.72, yes
-b'O14467', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.96, yes
-b'Q3E824', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.42, yes
-b'P24000', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.99, yes
-b'P0C2H6', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.87, yes
-b'P07251', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.7, no
-b'Q12230', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.52, no
-b'P41805', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.97, yes
-b'P00330', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.59, yes
-b'P29952', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.66, no
-b'P14540', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.59, no
-b'P32388', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.74, yes
-b'P47771', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.37, yes
-b'P05749', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.26, yes
-b'P26321', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, yes, 0.58, no
-b'P53184', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.51, yes
-b'P05694', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.57, no
-b'P11632', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.18, yes
-b'P43603', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.54, yes
-b'P54115', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.73, yes
-b'P32497', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.22, no
-b'Q08245', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.04, yes
-b'P05740', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.99, yes
-b'P22138', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.79, no
-b'P17709', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.85, yes
-b'P32905', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.39, no
-b'P15873', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.54, yes
-b'P38707', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.7, yes
-b'P39940', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.68, yes
-b'P23293', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.78, yes
-b'P43587', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, yes, 0.58, no
-b'Q12680', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.73, yes
-b'P13663', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.83, yes
-b'P02293', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.77, yes
-b'P10963', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.55, yes
+b'P34216', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.09, yes
+b'P32799', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, yes, 0.62, no
+b'P25373', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.61, yes
+b'O14455', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.99, yes
+b'Q05785', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.48, yes
+b'P15646', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.91, yes
+b'P45978', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.87, no
+b'P09064', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.3, yes
+b'P04650', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.6, yes
+b'P01097', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.87, yes
+b'P04449', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.99, yes
+b'P53141', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.09, yes
+b'P38804', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.11, yes
+b'P39976', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.58, yes
+b'P00445', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.47, yes
+b'Q00816', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.71, yes
+b'P00330', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.59, no
+b'P28777', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.94, yes
+b'P22217', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, no, 0.36, no
+b'P00445', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.79, yes
+b'P33417', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.38, yes
+b'P39935', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.27, yes
+b'P26786', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.97, yes
+b'P13188', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.45, no
+b'P00044', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.97, yes
+b'P46969', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.56, no
+b'P35691', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.5, yes
+b'P37299', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.24, yes
+b'Q06440', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.65, no
+b'P32463', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.02, no
+b'P47001', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.07, yes
+b'P16467', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.8, yes
+b'P47143', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.43, yes
+b'P39715', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.71, no
+b'P38910', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.4, yes
+b'P38067', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.67, yes
+b'P38999', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.7, no
+b'Q08217', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.66, yes
+b'P14742', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.71, yes
+b'P40047', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.8, yes
+b'P18899', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.21, yes
+b'P0CX41', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.89, yes
+b'P14843', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.72, yes
+b'Q12165', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.36, yes
+b'P16965', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.74, no
+b'P08678', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.68, yes
+b'Q00416', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, no, 0.45, no
 b'P00925', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.93, yes
-b'P40185', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.22, yes
-b'P0C2J1', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.36, yes
-b'P39954', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.63, yes
-b'P05745', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.99, yes
-b'P34223', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.64, yes
-b'P38248', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.04, yes
-b'P43598', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.85, yes
-b'P38911', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.71, yes
-b'P32599', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, yes, 0.74, no
-b'P21242', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.47, yes
-b'P10592', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.32, yes
-b'P07284', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.86, no
-b'P36053', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, no, 0.26, no
-b'P40825', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.89, yes
-b'P25293', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.13, yes
-b'P38264', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.97, yes
-b'P39708', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.29, yes
-b'P01120', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, yes, 0.64, no
-b'P54839', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.85, yes
-b'Q00955', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.75, yes
-b'Q03973', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.36, yes
-b'P34223', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.65, yes
-b'P19358', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.65, no
-b'P53334', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.04, yes
-b'P34216', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.1, yes
-b'P23301', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.71, yes
-b'P40495', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.94, yes
-b'P53184', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.39, yes
-b'P25619', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.38, yes
-b'P10592', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.19, yes
-b'P00549', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.93, yes
-b'P38788', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.37, yes
-b'P53090', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.86, yes
-b'P47176', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.78, yes
-b'Q08492', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.38, yes
-b'P53905', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.86, yes
-b'P36094', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.57, yes
+b'P40991', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.43, no
+b'P0CX51', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.97, yes
+b'P00925', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.86, yes
+b'P14832', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.89, yes
+b'P25367', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.19, no
+b'P17555', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.37, no
+b'Q04728', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.73, yes
+b'P47176', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.92, no
+b'P0CX43', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.97, yes
+b'P40052', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.88, yes
+b'P53066', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.08, yes
+b'P17076', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.69, no
+b'P0C0W9', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.51, yes
+b'P34227', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.9, yes
+b'P33417', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, no, 0.4, no
+b'Q9P305', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.89, yes
+b'P33297', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.73, yes
+b'Q3E7Z5', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.2, yes
+b'P28777', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.94, yes
+b'P49089', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.31, yes
+b'P0C2H9', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.98, yes
+b'P00360', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.98, yes
+b'P12695', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.42, yes
+b'P53281', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.21, yes
+b'Q05911', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.84, yes
+b'P07251', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.71, yes
+b'P31116', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, no, 0.37, no
+b'P16140', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.87, yes
+b'P40535', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.85, yes
+b'P32478', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.03, yes
+b'P22146', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.05, yes
+b'P36094', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.79, yes
+b'P00424', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.76, yes
+b'P23254', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.61, no
+b'P34760', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.4, yes
+b'P08524', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.47, yes
+b'Q12189', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, yes, 0.91, no
+b'P38791', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.68, yes
+b'P40169', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, no, 0.46, no
+b'P33442', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.98, yes
+b'P43603', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.5, yes
+b'P25491', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.54, yes
+b'P07280', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.91, yes
+b'P26321', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.4, yes
+b'P53278', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.11, yes
+b'Q03558', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.45, yes
+b'P15454', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, yes, 0.56, no
+b'P38013', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.57, yes
+b'P40037', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, no, 0.43, no
+b'P26783', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.91, yes
+b'P05755', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, yes, 0.54, no
+b'P07267', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.17, yes
+b'Q3E784', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, no, 0.23, no
+b'P31539', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.43, yes
+b'P34909', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.82, yes
+b'Q03048', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.79, yes
+b'P00931', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.76, yes
+b'P31787', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.09, yes
+b'Q08225', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.28, yes
+b'P20081', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.74, no
+b'P16547', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.72, yes
+b'P47035', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.6, yes
+b'P23301', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.67, yes
+b'P38934', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.56, yes
+b'P31539', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.48, no
+b'P33399', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.73, yes
+b'P46984', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.1, no
+b'P11633', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.23, yes
+b'P09435', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, yes, 0.5, no
+b'P40185', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.25, yes
+b'Q99337', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.84, yes
+b'P50861', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, yes, 0.78, no
+b'P05319', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.0, yes
+b'P10622', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.01, yes
+b'P09436', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.68, yes
+b'P07246', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.93, yes
+b'Q02486', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.87, yes
+b'P17505', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.93, yes
+b'P32589', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.78, yes
+b'P32795', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.76, yes
+b'P32445', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.37, no
+b'P29952', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.73, no
+b'P32432', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.66, yes
+b'P15992', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.47, yes
+b'P39926', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.3, yes
+b'P32905', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.61, yes
+b'P12709', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.7, yes
+b'Q12159', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.99, yes
+b'P40043', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.73, yes
+b'P08678', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.47, yes
+b'P47120', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.47, no
+b'P02407', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.98, yes
+b'P38999', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.55, no
+b'P25451', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.35, no
+b'P31116', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.54, yes
+b'P32905', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.56, yes
+b'Q05050', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.33, yes
+b'P26321', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.73, yes
+b'P11938', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, no, 0.47, no
+b'P53163', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.62, no
+b'P48510', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.16, yes
+b'P00817', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.71, yes
+b'Q03758', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.35, yes
+b'P05744', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.98, yes
+b'P06633', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.63, no
+b'P06787', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.02, yes
+b'P39526', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.49, yes
+b'Q99383', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.69, no
+b'P09440', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.78, yes
+b'P09064', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.23, yes
+b'Q12672', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.85, yes
+b'P39013', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.78, yes
+b'P38968', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.26, no
+b'Q05506', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.69, yes
+b'P40414', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.02, yes
+b'P00724', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, no, 0.42, no
+b'P11484', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.81, yes
+b'P32316', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.74, no
+b'P53912', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, yes, 0.9, no
+b'P40106', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.55, yes
+b'Q3E841', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.24, yes
+b'Q08746', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.86, no
+b'P09624', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.8, yes
+b'Q05979', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.35, no
+b'P32583', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.85, yes
+b'P47018', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.28, yes
+b'P05747', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.34, yes
+b'P0CX37', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.97, yes
+b'Q01519', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.13, yes
+b'P38788', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.5, no
+b'P14843', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.74, yes
+b'P04806', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.87, yes
+b'P38817', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.63, no
+b'P00431', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.36, yes
+b'P29311', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, no, 0.47, no
+b'P40202', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.87, yes
+b'P10080', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.58, yes
+b'P46949', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.47, yes
+b'P02407', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.99, yes
+b'P39003', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.67, yes
+b'P08067', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.9, yes
+b'P40040', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, yes, 0.54, no
+b'P38777', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.57, yes
+b'P53330', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.71, yes
+b'P00931', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.89, yes
+b'P00931', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, yes, yes, 0.88, yes
+b'P23248', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.99, yes
+b'Q08969', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, yes, 0.67, no
+b'P17649', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.47, yes
+b'Q03954', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.53, yes
+b'P06633', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.57, yes
+b'O14455', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, yes, yes, 0.93, yes
+b'P07251', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.64, no
+b'P53897', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.67, yes
+b'P36025', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, yes, 0.65, no
+b'P31787', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.05, yes
+b'P53330', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.8, no
+b'Q12074', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.61, yes
+b'P08524', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.65, yes
+b'P32499', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.65, yes
+b'P39111', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.17, yes
+b'Q03178', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.21, yes
+b'P32495', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.92, yes
+b'P52286', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.8 mM NaCl, no, no, 0.05, yes
+b'P40825', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.9, yes
+b'P0CX82', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.99, yes
+b'P00931', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.59, yes
+b'P40467', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.3, yes
+b'P39939', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.98, yes
+b'P37012', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.66, yes
+b'Q12159', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.99, yes
+b'P00498', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.82, no
+b'P53066', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 3.0 mM NaCl, no, no, 0.05, yes
+b'P52286', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, no, 0.05, no
+b'P19956', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, yes, 0.85, no
+b'P38427', (+) 10 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.73, no
+b'Q08208', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.69, no
+b'P38787', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, no, yes, 0.72, no
+b'Q03690', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, yes, yes, 0.9, yes
+b'P16861', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.91, yes
+b'P40513', (-) 10 nm AgNP, 10 mM NaPi pH 7.4 + 0.1 mM mg, no, no, 0.25, yes
+b'P38853', (-) 10 nm AgNP, 10 mM NaPi pH 7.4, no, no, 0.43, yes
+b'P0CX53', (-) 100 nm AgNP, 10 mM NaPi pH 7.4, yes, yes, 0.91, yes
