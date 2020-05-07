@@ -143,6 +143,7 @@ class data_base(object):
         self.X_train = self.X_train.drop('Accesion Number', 1)
         self.X_test = self.X_test.drop('Accesion Number', 1)
 
+
     def stratified_data_split(self, test_size=0.0):
         """Randomized stratified shuffle split that sets training and testing data
 
@@ -316,10 +317,9 @@ class data_base(object):
     @predict.setter
     def predict(self, path):
         if (os.path.isfile(path)):
-            self._predict = self.fetch_raw_data(path)
-            self._predict = self.clean_user_test_data(self._predict)
-        else:
-            self._predict = path
+            temp = self.fetch_raw_data(path)
+            self.clean_user_test_data(temp)
+        self._predict = path
 
 def normalize_and_reshape(data, labels):
     """Normalize and reshape the data by columns while preserving labels

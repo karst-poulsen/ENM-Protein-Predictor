@@ -42,6 +42,7 @@ def pipeline(db, test_percentage=0.1, optimize=False, RFECV=False):
     information about the model performance.
 
     Args:
+        :param test_percentage:
         :param db (database obj): The database object, passed from main.
         Information about this class can be found in data_utils
         :param optimize (bool): Set to true to run Grid search
@@ -54,6 +55,8 @@ def pipeline(db, test_percentage=0.1, optimize=False, RFECV=False):
     if (db.predict is None):
         # We split our own data for training and testing if user isn't predicting their own data
         db.stratified_data_split(test_percentage)
+        print("literally anything")
+        print(db.predict)
 
     db.X_train, db.X_test = data_utils.apply_RFECV_mask('Input_Files/_mask.txt', db.X_train, db.X_test)
     # overloaded RandomForestClassifier with coef
@@ -73,10 +76,7 @@ def pipeline(db, test_percentage=0.1, optimize=False, RFECV=False):
 
     est.fit(db.X_train, db.Y_train)
     probability_prediction = est.predict_proba(db.X_test)[:, 1]
-    # Label_prediction = est.predict(db.X_test)
-    # for item in Label_prediction:
-    #    print(item)
-    # adding these functions to look at bound predictions -kp
+
 
     # validator.y_randomization_test(est, db) #run y_randomization_test
     val = validation_utils.validation_metrics(db.Y_test, probability_prediction)
@@ -93,22 +93,24 @@ if __name__ == '__main__':
         sys.argv) == 3, "First command line argument is the amount of times to run the model, second command line argument is output file for json results"
     iterations = int(sys.argv[1])
     output_file = sys.argv[2]
-
+    #Test_percentage
+    #test_percentage=0.1
     # Initialize our database
     db = data_utils.data_base()
     db.raw_data = "Input_Files/database_test.csv"
     db.clean_raw_data()
 
     ###To use our data to predict yours, set your data below and uncomment:
-    db.predict = "Input_Files/database_test_input.csv"
+    db.predict = "Input_Files/database_test.csv"
 
     # Set constants for array indexs
     if (db.Y_test is not None):
         # db.Y_test is set if user wants to predict their own data
         test_size = db.Y_test.shape[0]  # If user has their own data
+        print("literally anything 2")
     else:
     # If not we split our own database for training and testing
-        test_size = 302 #10% of training data is used for testing 10% of 3012=302
+        test_size = test_percentage * db.Y_test.shape[0]  #10% of training data is used for testing 10% of 3012=302
     TOTAL_TESTED_PROTEINS = test_size * iterations
     SCORES = 0
     IMPORTANCES = 1

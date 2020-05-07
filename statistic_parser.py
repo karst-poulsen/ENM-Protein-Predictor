@@ -6,6 +6,7 @@ in readable format to the command line.
 This can be run by passing a json file as a command line argument.
 """
 import data_utils
+import pandas as pd
 import numpy as np
 import json
 import operator
@@ -57,8 +58,13 @@ print("\n~Performance Metrics~")
 data_utils.clean_print(average_metrics)
 print("\n~Feature Importances~")
 sorted_imports = sorted(average_importances.items(), key=operator.itemgetter(1))
+#df2 and dfout are used to output the feature importances to a csv
+dfout=pd.DataFrame(columns=['Feature Importance', 'Value'])
 for tup in reversed(sorted_imports):
     print("{}: {}".format(tup[0], tup[1]))
+    df2=pd.DataFrame([[tup[0], tup[1]]],columns=['Feature Importance', 'Value'])
+    dfout=pd.concat([dfout, df2])
+dfout.to_csv('FeatureImportance.csv')
 
 #get std results for metrics
 print("\n########STD VALUES#######")

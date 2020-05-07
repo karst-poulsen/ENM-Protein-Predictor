@@ -1,7 +1,7 @@
 #from Bio  import SeqIO
-import csv
+#import csv
 import pandas as pd
-import numpy as np
+#import numpy as np
 Data=[]
 AromaticAA = ['Y','W','F']
 PositiveAA=['R','H','K']
