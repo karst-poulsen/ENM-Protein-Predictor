@@ -60,6 +60,7 @@ print("\n~Feature Importances~")
 sorted_imports = sorted(average_importances.items(), key=operator.itemgetter(1))
 #df2 and dfout are used to output the feature importances to a csv
 dfout=pd.DataFrame(columns=['Feature Importance', 'Value'])
+df3=pd.DataFrame(columns=['Feature Importance', 'Stderror'])
 for tup in reversed(sorted_imports):
     print("{}: {}".format(tup[0], tup[1]))
     df2=pd.DataFrame([[tup[0], tup[1]]],columns=['Feature Importance', 'Value'])
@@ -81,3 +82,7 @@ for key, arr in std_importances.items():
     std_importances[key] = arr
 for key, arr in std_importances.items():
     print("{}: {}".format(key, arr))
+    df=pd.DataFrame([[key, arr]], columns=['Feature Importance', 'Stderror'])
+    df3=pd.concat([df3, df])
+dfout=dfout.join(df3.set_index('Feature Importance'), on='Feature Importance')
+dfout.to_csv('FeatureImportance.csv')

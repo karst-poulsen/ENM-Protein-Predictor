@@ -36,7 +36,7 @@ class MyEncoder(json.JSONEncoder):
             return super(MyEncoder, self).default(obj)
 
 
-def pipeline(db, test_percentage=0.1, optimize=False, RFECV=False):
+def pipeline(db, test_percentage=.1, optimize=False, RFECV=False):
     """
     Runs the pipeline. Trains and evaluates the estimator, outputs metrics and
     information about the model performance.
@@ -93,15 +93,14 @@ if __name__ == '__main__':
         sys.argv) == 3, "First command line argument is the amount of times to run the model, second command line argument is output file for json results"
     iterations = int(sys.argv[1])
     output_file = sys.argv[2]
-    #Test_percentage
-    #test_percentage=0.1
+
     # Initialize our database
     db = data_utils.data_base()
     db.raw_data = "Input_Files/database_test.csv"
     db.clean_raw_data()
 
     ###To use our data to predict yours, set your data below and uncomment:
-    db.predict = "Input_Files/database_test.csv"
+    #db.predict = "Input_Files/database_test.csv"
 
     # Set constants for array indexs
     if (db.Y_test is not None):
@@ -110,7 +109,7 @@ if __name__ == '__main__':
         print("literally anything 2")
     else:
     # If not we split our own database for training and testing
-        test_size = test_percentage * db.Y_test.shape[0]  #10% of training data is used for testing 10% of 3012=302
+        test_size = 302  #10% of training data is used for testing 10% of 3012=302
     TOTAL_TESTED_PROTEINS = test_size * iterations
     SCORES = 0
     IMPORTANCES = 1
