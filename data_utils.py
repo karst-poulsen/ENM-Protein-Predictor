@@ -69,8 +69,8 @@ class data_base(object):
             in the test set
         """
     _ENRICHMENT_SPLIT_VALUE = 1 #enrichment threshold to classify as bound or unbound
-    categorical_data = ['Enzyme Commission Number', 'Particle Size', 'Particle Charge', 'Solvent Mg Concentration', 'Solvent NaCl Concentration']
-    # ,  removed from categorical data to test time decrease as well as to see if it works still
+    categorical_data = ['Particle Size', 'Particle Charge', 'Solvent Mg Concentration', 'Solvent NaCl Concentration']
+    #'Enzyme Commission Number',,  removed from categorical data to test time decrease as well as to see if it works still
     columns_to_drop = ['Protein Length', 'Sequence', 'Enrichment', 'Accesion Number']
 
     def __init__(self):

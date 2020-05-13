@@ -9,6 +9,7 @@ from sklearn.feature_selection import RFECV
 from sklearn.model_selection import GridSearchCV
 import sklearn
 import numpy as np
+import time
 
 class RandomForestClassifierWithCoef(RandomForestClassifier):
     """Adds feature weights for each returned variable from the
@@ -63,11 +64,12 @@ def recursive_feature_elimination(model, X_train, Y_train, mask_file):
     Returns:
         None
     """
+    t=time.time()
     assert isinstance(mask_file, str), "please pass a string specifying maskfile location"
     dir_path = os.path.dirname(os.path.realpath(__file__))
     mask_file = os.path.join(dir_path, mask_file)
 
-    selector = RFECV(estimator=model, step=1, cv=3, scoring='f1', verbose=1)
+    selector = RFECV(estimator=model, step=1, cv=2, scoring='f1', verbose=1)
     selector = selector.fit(X_train, Y_train)
     print("selector support: \n {} \n selector ranking: \n {}".format(selector.support_, selector.ranking_))
     print("Optimal number of features: \n {} \n Selector grid scores: \n {} \n".format(selector.n_features_, selector.grid_scores_))
@@ -75,3 +77,6 @@ def recursive_feature_elimination(model, X_train, Y_train, mask_file):
     with open(mask_file, 'w') as f:
             for item in selector.support_:
                 f.write('{}, '.format(item))
+                print(item)
+    elapsed = time.time()-t
+    print(elapsed)

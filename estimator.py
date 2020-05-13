@@ -36,7 +36,7 @@ class MyEncoder(json.JSONEncoder):
             return super(MyEncoder, self).default(obj)
 
 
-def pipeline(db, test_percentage=.1, optimize=False, RFECV=False):
+def pipeline(db, test_percentage=.1, optimize=False, RFECV=True):
     """
     Runs the pipeline. Trains and evaluates the estimator, outputs metrics and
     information about the model performance.
@@ -55,8 +55,7 @@ def pipeline(db, test_percentage=.1, optimize=False, RFECV=False):
     if (db.predict is None):
         # We split our own data for training and testing if user isn't predicting their own data
         db.stratified_data_split(test_percentage)
-        print("literally anything")
-        print(db.predict)
+
 
     db.X_train, db.X_test = data_utils.apply_RFECV_mask('Input_Files/_mask.txt', db.X_train, db.X_test)
     # overloaded RandomForestClassifier with coef
@@ -96,7 +95,7 @@ if __name__ == '__main__':
 
     # Initialize our database
     db = data_utils.data_base()
-    db.raw_data = "Input_Files/database_test.csv"
+    db.raw_data = "Input_Files/database_test_sansEC.csv"
     db.clean_raw_data()
 
     ###To use our data to predict yours, set your data below and uncomment:
